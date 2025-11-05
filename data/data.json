@@ -305,6 +305,113 @@
               "kn": "ಆಧುನಿಕ ಬೆಳಗಾವಿಯನ್ನು ಸಂಕೇತಿಸುವ ಐಕಾನಿಕ್ ರಾಜ್ಯ ಶಾಸಕಾಂಗ ಕಟ್ಟಡ."
             },
             "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Suvarna_Vidhana_Soudha_Belagavi.jpg"
+          },
+          {
+            "name": {
+              "en": "Godachinamalki Waterfalls",
+              "kn": "ಗೊಡಚಿನಮಲ್ಕಿ ಜಲಪಾತ"
+            },
+            "description": {
+              "en": "Beautiful waterfall in Gokak region, a popular tourist destination.",
+              "kn": "ಗೋಕಾಕ್ ಪ್ರದೇಶದಲ್ಲಿ ಸುಂದರ ಜಲಪಾತ, ಜನಪ್ರಿಯ ಪ್ರವಾಸಿ ಸ್ಥಳ."
+            },
+            "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+          }
+        ],
+        "naturalSanctuaries": [
+          {
+            "name": {
+              "en": "Bhimgad Sanctuary",
+              "kn": "ಭೀಮಗದ ಅಭಯಾರಣ್ಯ"
+            },
+            "description": {
+              "en": "A wildlife sanctuary known for its diverse flora and fauna, including tigers and various bird species.",
+              "kn": "ಬೆಕ್ಕುಗಳು ಮತ್ತು ವಿವಿಧ ಪಕ್ಷಿ ಜಾತಿಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ವೈವಿಧ್ಯಮಯ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಸಂಪತ್ತಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ವನ್ಯಜೀವಿ ಅಭಯಾರಣ್ಯ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bhimgad_Sanctuary.jpg"
+          },
+          {
+            "name": {
+              "en": "Gattaprabha Bird Sanctuary",
+              "kn": "ಗಟ್ಟಪ್ರಭಾ ಪಕ್ಷಿ ಅಭಯಾರಣ್ಯ"
+            },
+            "description": {
+              "en": "Bird sanctuary in Gokak region, home to various bird species.",
+              "kn": "ಗೋಕಾಕ್ ಪ್ರದೇಶದಲ್ಲಿನ ಪಕ್ಷಿ ಅಭಯಾರಣ್ಯ, ವಿವಿಧ ಪಕ್ಷಿ ಜಾತಿಗಳ ಆವಾಸಸ್ಥಾನ."
+            },
+            "photo": "https://images.unsplash.com/photo-1444927714506-8492d94b5ba0?w=400&h=300&fit=crop"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "V. K. Gokak — Poet & scholar",
+              "kn": "ವಿ. ಕೆ. ಗೋಕಾಕ್ — ಕವಿ ಮತ್ತು ವಿದ್ವಾಂಸ"
+            },
+            "description": {
+              "en": "Renowned Kannada poet and scholar.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ ಮತ್ತು ವಿದ್ವಾಂಸ."
+            }
+          },
+          {
+            "name": {
+              "en": "Chandrashekhara Kambar — Poet & playwright",
+              "kn": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ — ಕವಿ ಮತ್ತು ನಾಟಕಕಾರ"
+            },
+            "description": {
+              "en": "Renowned Kannada poet and playwright.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ ಮತ್ತು ನಾಟಕಕಾರ."
+            }
+          },
+          {
+            "name": {
+              "en": "Chennaveera Kanavi — Poet",
+              "kn": "ಚೆನ್ನವೀರ ಕಣವಿ — ಕವಿ"
+            },
+            "description": {
+              "en": "Eminent Kannada poet from Haveri, prominent in Belagavi division literary heritage.",
+              "kn": "ಹಾವೇರಿಯಿಂದ ಬಂದ ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ, ಬೆಳಗಾವಿ ವಿಭಾಗದ ಸಾಹಿತ್ಯಿಕ ಪರಂಪರೆಯಲ್ಲಿ ಪ್ರಮುಖ."
+            }
+          }
+        ],
+        "cultureFestivals": [
+          {
+            "name": {
+              "en": "Folk arts: Veeragase, Dollu Kunitha, Suggi Kunita",
+              "kn": "ಲೋಕ ಕಲೆಗಳು: ವೀರಗಾಸೆ, ದೊಳ್ಳು ಕುಣಿತ, ಸುಗ್ಗಿ ಕುಣಿತ"
+            },
+            "description": {
+              "en": "Traditional folk arts including Veeragase, Dollu Kunitha, and Suggi Kunita.",
+              "kn": "ವೀರಗಾಸೆ, ದೊಳ್ಳು ಕುಣಿತ ಮತ್ತು ಸುಗ್ಗಿ ಕುಣಿತ ಸೇರಿದಂತೆ ಸಾಂಪ್ರದಾಯಿಕ ಲೋಕ ಕಲೆಗಳು."
+            },
+            "photo": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop"
+          },
+          {
+            "name": {
+              "en": "Kittur Utsava — Historic festival of Rani Chennamma",
+              "kn": "ಕಿತ್ತೂರು ಉತ್ಸವ — ರಾಣಿ ಚೆನ್ನಮ್ಮನ ಐತಿಹಾಸಿಕ ಉತ್ಸವ"
+            },
+            "description": {
+              "en": "Historic festival celebrating Rani Chennamma's legacy and resistance.",
+              "kn": "ರಾಣಿ ಚೆನ್ನಮ್ಮನ ಪರಂಪರೆ ಮತ್ತು ಪ್ರತಿರೋಧವನ್ನು ಆಚರಿಸುವ ಐತಿಹಾಸಿಕ ಉತ್ಸವ."
+            },
+            "photo": "https://images.unsplash.com/photo-1603574670812-d24560880210?w=400&h=300&fit=crop"
+          }
+        ],
+        "folkDances": [
+          {
+            "name": {
+              "en": "Veeragase",
+              "kn": "ವೀರಗಾಸೆ"
+            },
+            "photo": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&h=300&fit=crop"
+          },
+          {
+            "name": {
+              "en": "Dollu Kunitha",
+              "kn": "ಡೊಳ್ಳು ಕುಣಿತ"
+            },
+            "photo": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=400&h=300&fit=crop"
           }
         ]
       },
@@ -466,6 +573,90 @@
               "kn": "ಹುಬ್ಬಳ್ಳಿ ನಗರದ ಪ್ಯಾನೊರಮಿಕ್ ನೋಟವನ್ನು ಒದಗಿಸುವ ಬೆಟ್ಟದ ಮೇಲಿನ ಪಾರ್ಕ್."
             },
             "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nrupatunga_Betta_Hubli.jpg"
+          },
+          {
+            "name": {
+              "en": "Tech Park Hubli",
+              "kn": "ಟೆಕ್ ಪಾರ್ಕ್ ಹುಬ್ಬಳ್ಳಿ"
+            },
+            "description": {
+              "en": "Industrial and IT Hub in Hubballi-Dharwad region.",
+              "kn": "ಹುಬ್ಬಳ್ಳಿ-ಧಾರವಾಡ ಪ್ರದೇಶದಲ್ಲಿ ಕೈಗಾರಿಕಾ ಮತ್ತು ಐಟಿ ಕೇಂದ್ರ."
+            },
+            "photo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=300&fit=crop"
+          },
+          {
+            "name": {
+              "en": "Utsav Rock Garden",
+              "kn": "ಉತ್ಸವ ರಾಕ್ ಗಾರ್ಡನ್"
+            },
+            "description": {
+              "en": "Unique sculptural museum near Hubballi-Dharwad featuring rock sculptures.",
+              "kn": "ಹುಬ್ಬಳ್ಳಿ-ಧಾರವಾಡದ ಬಳಿ ಬಂಡೆ ಶಿಲ್ಪಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಅನನ್ಯ ಶಿಲ್ಪ ಸಂಗ್ರಹಾಲಯ."
+            },
+            "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "D.R. Bendre",
+              "kn": "ಡಿ.ಆರ್. ಬೇಂದ್ರೆ"
+            },
+            "description": {
+              "en": "Renowned Kannada poet and Jnanpith awardee, known as 'Naada Kavi' (Poet of the Land).",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತ, 'ನಾಡ ಕವಿ' ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತಾರೆ."
+            }
+          },
+          {
+            "name": {
+              "en": "V. K. Gokak — Poet & scholar",
+              "kn": "ವಿ. ಕೆ. ಗೋಕಾಕ್ — ಕವಿ ಮತ್ತು ವಿದ್ವಾಂಸ"
+            },
+            "description": {
+              "en": "Renowned Kannada poet, scholar, and Jnanpith awardee.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ, ವಿದ್ವಾಂಸ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತ."
+            }
+          },
+          {
+            "name": {
+              "en": "Chandrashekhar Kambar — Poet & playwright",
+              "kn": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ — ಕವಿ ಮತ್ತು ನಾಟಕಕಾರ"
+            },
+            "description": {
+              "en": "Renowned Kannada poet, playwright, and Jnanpith awardee.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ, ನಾಟಕಕಾರ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತ."
+            }
+          },
+          {
+            "name": {
+              "en": "Puttaraja Gawai — Saint-musician",
+              "kn": "ಪುಟ್ಟರಾಜ ಗವಾಯಿ — ಸಂತ-ಸಂಗೀತಗಾರ"
+            },
+            "description": {
+              "en": "Saint-musician, scholar, and composer known for Veena mastery.",
+              "kn": "ವೀಣಾ ಪಾಂಡಿತ್ಯಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ಸಂತ-ಸಂಗೀತಗಾರ, ವಿದ್ವಾಂಸ ಮತ್ತು ಸಂಯೋಜಕ."
+            }
+          },
+          {
+            "name": {
+              "en": "Bhimsen Joshi — Hindustani singer",
+              "kn": "ಭೀಮಸೇನ್ ಜೋಶಿ — ಹಿಂದುಸ್ತಾನಿ ಗಾಯಕ"
+            },
+            "description": {
+              "en": "Legendary Hindustani classical singer, Bharat Ratna awardee.",
+              "kn": "ದಂತಕಥೆಯ ಹಿಂದುಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಗಾಯಕ, ಭಾರತ ರತ್ನ ಪ್ರಶಸ್ತಿ ವಿಜೇತ."
+            }
+          },
+          {
+            "name": {
+              "en": "Gangubai Hangal — Classical musician",
+              "kn": "ಗಂಗೂಬಾಯಿ ಹಂಗಲ್ — ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತಗಾರ"
+            },
+            "description": {
+              "en": "Renowned Hindustani classical vocalist and Padma Bhushan awardee.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಹಿಂದುಸ್ತಾನಿ ಶಾಸ್ತ್ರೀಯ ಗಾಯಕಿ ಮತ್ತು ಪದ್ಮಭೂಷಣ ಪ್ರಶಸ್ತಿ ವಿಜೇತ."
+            }
           }
         ]
       },
@@ -605,6 +796,28 @@
             },
             "photo": "https://upload.wikimedia.org/wikipedia/commons/2/25/Itagi_Mahadeva_Temple.jpg"
           }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "Pandit Puttaraj Gawai",
+              "kn": "ಪಂಡಿತ್ ಪುಟ್ಟರಾಜ ಗವಾಯಿ"
+            },
+            "description": {
+              "en": "Renowned musician and Veena maestro.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಸಂಗೀತಗಾರ ಮತ್ತು ವೀಣಾ ಮಾಸ್ಟ್ರೊ."
+            }
+          },
+          {
+            "name": {
+              "en": "Kumaravyasa — Epic poet",
+              "kn": "ಕುಮಾರವ್ಯಾಸ — ಮಹಾಕಾವ್ಯ ಕವಿ"
+            },
+            "description": {
+              "en": "Medieval poet who authored Karnata Bharata Kathamanjari, also known as Narayanappa.",
+              "kn": "ಕರ್ನಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಬರೆದ ಮಧ್ಯಕಾಲೀನ ಕವಿ, ನಾರಾಯಣಪ್ಪ ಎಂದೂ ಕರೆಯಲ್ಪಡುತ್ತಾರೆ."
+            }
+          }
         ]
       },
       {
@@ -742,6 +955,71 @@
               "kn": "ಚಾಲುಕ್ಯ-ಯುಗದ ವಿನ್ಯಾಸ ಮತ್ತು ಶಿಲ್ಪಗಳನ್ನು ಪ್ರದರ್ಶಿಸುವ ದೇವಾಲಯ."
             },
             "photo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Siddheshwara_Temple_Haveri.jpg"
+          }
+        ],
+        "naturalSanctuaries": [
+          {
+            "name": {
+              "en": "Attiveri Bird Sanctuary",
+              "kn": "ಅಟ್ಟಿವೇರಿ ಪಕ್ಷಿ ಅಭಯಾರಣ್ಯ"
+            },
+            "description": {
+              "en": "Bird sanctuary shared with Uttara Kannada District, home to various migratory and resident birds.",
+              "kn": "ಉತ್ತರ ಕನ್ನಡ ಜಿಲ್ಲೆಯೊಂದಿಗೆ ಹಂಚಿಕೊಂಡ ಪಕ್ಷಿ ಅಭಯಾರಣ್ಯ, ವಿವಿಧ ವಲಸೆ ಮತ್ತು ನಿವಾಸಿ ಪಕ್ಷಿಗಳ ಆವಾಸಸ್ಥಾನ."
+            },
+            "photo": "https://images.unsplash.com/photo-1444927714506-8492d94b5ba0?w=400&h=300&fit=crop"
+          },
+          {
+            "name": {
+              "en": "Ranebennur Blackbuck Sanctuary",
+              "kn": "ರಣೇಬೆನ್ನೂರು ಕೃಷ್ಣಮೃಗ ಅಭಯಾರಣ್ಯ"
+            },
+            "description": {
+              "en": "Wildlife sanctuary protecting blackbucks and rare birds.",
+              "kn": "ಕೃಷ್ಣಮೃಗಗಳು ಮತ್ತು ಅಪರೂಪದ ಪಕ್ಷಿಗಳನ್ನು ರಕ್ಷಿಸುವ ವನ್ಯಜೀವಿ ಅಭಯಾರಣ್ಯ."
+            },
+            "photo": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=400&h=300&fit=crop"
+          }
+        ],
+        "folkDances": [
+          {
+            "name": {
+              "en": "Suggi Kunita",
+              "kn": "ಸುಗ್ಗಿ ಕುಣಿತ"
+            },
+            "photo": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=400&h=300&fit=crop"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "Shivakumara Swamiji",
+              "kn": "ಶಿವಕುಮಾರ ಸ್ವಾಮಿಜಿ"
+            },
+            "description": {
+              "en": "Spiritual leader and social reformer known for humanitarian work.",
+              "kn": "ಮಾನವೀಯ ಕೆಲಸಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ಆಧ್ಯಾತ್ಮಿಕ ನೇತೃತ್ವ ಮತ್ತು ಸಾಮಾಜಿಕ ಸುಧಾರಕ."
+            }
+          },
+          {
+            "name": {
+              "en": "Chennaveera Kanavi — Poet",
+              "kn": "ಚೆನ್ನವೀರ ಕಣವಿ — ಕವಿ"
+            },
+            "description": {
+              "en": "Eminent Kannada poet from Haveri, prominent in Belagavi division literary heritage.",
+              "kn": "ಹಾವೇರಿಯಿಂದ ಬಂದ ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ, ಬೆಳಗಾವಿ ವಿಭಾಗದ ಸಾಹಿತ್ಯಿಕ ಪರಂಪರೆಯಲ್ಲಿ ಪ್ರಮುಖ."
+            }
+          },
+          {
+            "name": {
+              "en": "Sarvajna — Tripadi poet",
+              "kn": "ಸರ್ವಜ್ಞ — ತ್ರಿಪದಿ ಕವಿ"
+            },
+            "description": {
+              "en": "Tripadi poet and philosopher known for his philosophical verses.",
+              "kn": "ತನ್ನ ತಾತ್ವಿಕ ಪದ್ಯಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ತ್ರಿಪದಿ ಕವಿ ಮತ್ತು ತತ್ವಜ್ಞಾನಿ."
+            }
           }
         ]
       },
@@ -902,6 +1180,17 @@
               "kn": "ಬೋಟಿಂಗ್ ಮತ್ತು ಉದ್ಯಾನವನಗಳನ್ನು ಒದಗಿಸುವ ಸುಂದರ ಜಲಾಶಯ."
             },
             "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Almatti_Dam_Bagalkot.jpg"
+          },
+          {
+            "name": {
+              "en": "Badami Fort",
+              "kn": "ಬಾದಾಮಿ ಕೋಟೆ"
+            },
+            "description": {
+              "en": "Historic fort in Badami with ancient architecture and scenic views.",
+              "kn": "ಪ್ರಾಚೀನ ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಸುಂದರ ನೋಟಗಳೊಂದಿಗೆ ಬಾದಾಮಿಯಲ್ಲಿನ ಐತಿಹಾಸಿಕ ಕೋಟೆ."
+            },
+            "photo": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=300&fit=crop"
           }
         ]
       },
@@ -1280,6 +1569,97 @@
               "kn": "ಧರ್ಮ ಮತ್ತು ವಿಶ್ರಾಂತಿಯನ್ನು ಮಿಶ್ರಣ ಮಾಡುವ ಆಧ್ಯಾತ್ಮಿಕ ಕರಾವಳಿ ನಗರ."
             },
             "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gokarna_Beach_Temple.jpg"
+          },
+          {
+            "name": {
+              "en": "Unchalli Waterfalls",
+              "kn": "ಉಂಚಳ್ಳಿ ಜಲಪಾತ"
+            },
+            "description": {
+              "en": "Beautiful waterfall located near Sirsi, also known as Lushington Falls.",
+              "kn": "ಸಿರಸಿಯ ಬಳಿ ನೆಲೆಗೊಂಡಿರುವ ಸುಂದರ ಜಲಪಾತ, ಲುಷಿಂಗ್ಟನ್ ಜಲಪಾತ ಎಂದೂ ಕರೆಯಲ್ಪಡುತ್ತದೆ."
+            },
+            "photo": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=400&h=300&fit=crop"
+          },
+          {
+            "name": {
+              "en": "Yana Caves",
+              "kn": "ಯಾನ ಗುಹೆಗಳು"
+            },
+            "description": {
+              "en": "Unique limestone rock formations and caves near Kumta, a geological wonder.",
+              "kn": "ಕುಮಟಾದ ಬಳಿ ಅನನ್ಯ ಸುಣ್ಣದ ಬಂಡೆ ರಚನೆಗಳು ಮತ್ತು ಗುಹೆಗಳು, ಭೂವಿಜ್ಞಾನದ ಅದ್ಭುತ."
+            },
+            "photo": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=400&h=300&fit=crop"
+          },
+          {
+            "name": {
+              "en": "Magod Waterfalls",
+              "kn": "ಮಗೋಡ್ ಜಲಪಾತ"
+            },
+            "description": {
+              "en": "Scenic waterfalls near Yellapur, formed by the Bedti River.",
+              "kn": "ಯಲ್ಲಾಪುರದ ಬಳಿ ಬೆಡ್ಟಿ ನದಿಯಿಂದ ರೂಪುಗೊಂಡ ಸುಂದರ ಜಲಪಾತಗಳು."
+            },
+            "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+          }
+        ],
+        "folkDances": [
+          {
+            "name": {
+              "en": "Siddi Dhamal",
+              "kn": "ಸಿದ್ಧಿ ಧಮಾಲ"
+            },
+            "photo": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=400&h=300&fit=crop"
+          },
+          {
+            "name": {
+              "en": "Suggi Kunita",
+              "kn": "ಸುಗ್ಗಿ ಕುಣಿತ"
+            },
+            "photo": "https://images.unsplash.com/photo-1547036967-23d11aacaee0?w=400&h=300&fit=crop"
+          },
+          {
+            "name": {
+              "en": "Kolata",
+              "kn": "ಕೊಲಾಟ"
+            },
+            "photo": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400&h=300&fit=crop"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "Kumaravyasa",
+              "kn": "ಕುಮಾರವ್ಯಾಸ"
+            },
+            "description": {
+              "en": "Medieval poet who authored Karnata Bharata Kathamanjari, an epic retelling of the Mahabharata.",
+              "kn": "ಮಹಾಭಾರತದ ಮರುಹೇಳಿಕೆಯಾದ ಕರ್ನಾಟ ಭಾರತ ಕಥಾಮಂಜರಿ ಬರೆದ ಮಧ್ಯಕಾಲೀನ ಕವಿ."
+            }
+          },
+          {
+            "name": {
+              "en": "Dr. Shivarama Karanth",
+              "kn": "ಡಾ. ಶಿವರಾಮ ಕಾರಂತ"
+            },
+            "description": {
+              "en": "Renowned Kannada writer, environmentalist, and Jnanpith awardee.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಲೇಖಕ, ಪರಿಸರವಾದಿ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತ."
+            }
+          }
+        ],
+        "naturalSanctuaries": [
+          {
+            "name": {
+              "en": "Attiveri Bird Sanctuary",
+              "kn": "ಅಟ್ಟಿವೇರಿ ಪಕ್ಷಿ ಅಭಯಾರಣ್ಯ"
+            },
+            "description": {
+              "en": "Bird sanctuary shared with Haveri District, home to various migratory and resident birds.",
+              "kn": "ಹಾವೇರಿ ಜಿಲ್ಲೆಯೊಂದಿಗೆ ಹಂಚಿಕೊಂಡ ಪಕ್ಷಿ ಅಭಯಾರಣ್ಯ, ವಿವಿಧ ವಲಸೆ ಮತ್ತು ನಿವಾಸಿ ಪಕ್ಷಿಗಳ ಆವಾಸಸ್ಥಾನ."
+            },
+            "photo": "https://images.unsplash.com/photo-1444927714506-8492d94b5ba0?w=400&h=300&fit=crop"
           }
         ]
       }
