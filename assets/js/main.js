@@ -144,31 +144,69 @@ function initializeMap() {
         setTimeout(initializeMap, 100);
         return;
     }
-    
+
     // Initialize map centered on Belagavi Division
     const map = L.map('map').setView([15.5, 75.0], 7);
-    
+
     // Add OpenStreetMap tiles
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '© OpenStreetMap contributors',
         maxZoom: 18
     }).addTo(map);
-    
-    // Add markers for each district
+
+    // --- Outline for Belagavi Division ---
+    // Approximate polygon covering all 7 districts
+    const belagaviDivisionBoundary = [
+        [16.6, 74.0], // near Karwar, Uttara Kannada
+        [15.9, 74.2], // Belagavi
+        [15.4, 74.9], // Dharwad
+        [15.5, 75.5], // Gadag
+        [14.9, 75.7], // Haveri
+        [16.2, 75.7], // Bagalkote
+        [16.9, 75.8], // Vijayapura
+        [17.1, 75.4], // northern edge
+        [16.6, 74.0]  // closing polygon
+    ];
+
+    // Add polygon to map with styling
+    const divisionOutline = L.polygon(belagaviDivisionBoundary, {
+        color: '#C85A3A',       // border color (terracotta)
+        weight: 3,              // line thickness
+        fillColor: '#FFD39B',   // light fill (pale gold)
+        fillOpacity: 0.2
+    }).addTo(map);
+
+    // Fit map view to polygon bounds
+    map.fitBounds(divisionOutline.getBounds());
+
+    // --- Add District Markers ---
     divisionData.belagaviDivision.districts.forEach(district => {
         const marker = L.marker([district.coordinates.lat, district.coordinates.lng])
             .addTo(map)
             .bindPopup(`
                 <strong>${district.name[currentLanguage]}</strong><br>
-                <a href="district.html?district=${encodeURIComponent(district.name.en)}" style="color: #C85A3A; text-decoration: none;">
-                    ${currentLanguage === 'en' ? 'Explore' : 'ಅನ್ವೇಷಿಸಿ'}
+                <a href="district.html?district=${encodeURIComponent(district.name.en)}" 
+                   style="color: #C85A3A; text-decoration: none;">
+                   ${currentLanguage === 'en' ? 'Explore' : 'ಅನ್ವೇಷಿಸಿ'}
                 </a>
             `);
-        
+
         marker.on('click', function() {
             window.location.href = `district.html?district=${encodeURIComponent(district.name.en)}`;
         });
     });
+
+    // Optional: Add boundary label
+    const centerLabel = L.marker([15.8, 75.0], {
+        icon: L.divIcon({
+            className: 'division-label',
+            html: `<div style="color:#C85A3A; font-weight:bold; font-size:14px; text-shadow:1px 1px 2px #fff;">
+                ${currentLanguage === 'en' ? 'Belagavi Division' : 'ಬೆಳಗಾವಿ ವಿಭಾಗ'}
+            </div>`,
+            iconSize: [150, 30],
+            iconAnchor: [75, 15]
+        })
+    }).addTo(map);
 }
 
 // ============================================

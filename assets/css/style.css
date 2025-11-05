@@ -286,6 +286,17 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
     margin-top: var(--spacing-md);
+    z-index: 1;
+}
+
+.division-label {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.division-label div {
+    pointer-events: none;
 }
 
 /* ============================================
