@@ -287,11 +287,13 @@ function createContentCard(item, lang) {
     const card = document.createElement('div');
     card.className = 'content-card';
     
-    const imageUrl = item.photo || 'https://via.placeholder.com/400x300';
+    const imageUrl = item.photo || getIconForAttraction(item.name[lang] || item.name.en);
     
     card.innerHTML = `
-        <img src="${imageUrl}" alt="${item.name[lang]}" class="content-card-image" 
-             onerror="this.src='https://via.placeholder.com/400x300?text=${encodeURIComponent(item.name[lang])}'">
+        <div class="content-card-image-wrapper">
+            <img src="${imageUrl}" alt="${item.name[lang]}" class="content-card-image" 
+                 onerror="this.onerror=null; this.parentElement.innerHTML='${getIconHTML(item.name[lang] || item.name.en)}'">
+        </div>
         <div class="content-card-body">
             <h3>${item.name[lang]}</h3>
             <p>${item.description[lang]}</p>
@@ -299,6 +301,64 @@ function createContentCard(item, lang) {
     `;
     
     return card;
+}
+
+function getIconForAttraction(name) {
+    const nameLower = name.toLowerCase();
+    
+    // Temple icons
+    if (nameLower.includes('temple') || nameLower.includes('ದೇವಾಲಯ') || nameLower.includes('ಮಸೀದಿ') || nameLower.includes('masjid')) {
+        return 'https://cdn-icons-png.flaticon.com/512/3135/3135715.png';
+    }
+    // Fort icons
+    if (nameLower.includes('fort') || nameLower.includes('ಕೋಟೆ') || nameLower.includes('buruj')) {
+        return 'https://cdn-icons-png.flaticon.com/512/1995/1995515.png';
+    }
+    // Waterfall icons
+    if (nameLower.includes('falls') || nameLower.includes('waterfall') || nameLower.includes('ಜಲಪಾತ')) {
+        return 'https://cdn-icons-png.flaticon.com/512/1723/1723128.png';
+    }
+    // Beach icons
+    if (nameLower.includes('beach') || nameLower.includes('ಬೀಚ್')) {
+        return 'https://cdn-icons-png.flaticon.com/512/1723/1723125.png';
+    }
+    // Lake icons
+    if (nameLower.includes('lake') || nameLower.includes('ಸರೋವರ') || nameLower.includes('dam') || nameLower.includes('ಧಾಮ್')) {
+        return 'https://cdn-icons-png.flaticon.com/512/1723/1723130.png';
+    }
+    // Sanctuary/Wildlife icons
+    if (nameLower.includes('sanctuary') || nameLower.includes('park') || nameLower.includes('ಅಭಯಾರಣ್ಯ') || nameLower.includes('ಉದ್ಯಾನ')) {
+        return 'https://cdn-icons-png.flaticon.com/512/1723/1723129.png';
+    }
+    // Cave icons
+    if (nameLower.includes('cave') || nameLower.includes('ಗುಹೆ') || nameLower.includes('rocks') || nameLower.includes('ಬಂಡೆ')) {
+        return 'https://cdn-icons-png.flaticon.com/512/1723/1723127.png';
+    }
+    // Garden/Park icons
+    if (nameLower.includes('garden') || nameLower.includes('park') || nameLower.includes('ಗಾರ್ಡನ್')) {
+        return 'https://cdn-icons-png.flaticon.com/512/3135/3135813.png';
+    }
+    // Museum/Monument icons
+    if (nameLower.includes('museum') || nameLower.includes('monument') || nameLower.includes('mausoleum') || nameLower.includes('rauza') || nameLower.includes('gumbaz')) {
+        return 'https://cdn-icons-png.flaticon.com/512/3135/3135768.png';
+    }
+    // Hill/Mountain icons
+    if (nameLower.includes('hill') || nameLower.includes('mountain') || nameLower.includes('betta') || nameLower.includes('ಬೆಟ್ಟ')) {
+        return 'https://cdn-icons-png.flaticon.com/512/1723/1723126.png';
+    }
+    // Industry/Tech icons
+    if (nameLower.includes('tech') || nameLower.includes('industry') || nameLower.includes('park') || nameLower.includes('factory')) {
+        return 'https://cdn-icons-png.flaticon.com/512/3135/3135789.png';
+    }
+    // Default tourism icon
+    return 'https://cdn-icons-png.flaticon.com/512/3135/3135715.png';
+}
+
+function getIconHTML(name) {
+    const iconUrl = getIconForAttraction(name);
+    return `<div class="icon-fallback">
+        <img src="${iconUrl}" alt="${name}" class="icon-image">
+    </div>`;
 }
 
 // Update content when language changes
