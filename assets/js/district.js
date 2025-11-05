@@ -332,52 +332,60 @@ function createContentCard(item, lang) {
 function getIconForAttraction(name) {
     const nameLower = name.toLowerCase();
     
-    // Temple icons
+    // Temple icons - using landmark/monument icons
     if (nameLower.includes('temple') || nameLower.includes('ದೇವಾಲಯ') || nameLower.includes('ಮಸೀದಿ') || nameLower.includes('masjid')) {
-        return 'https://cdn-icons-png.flaticon.com/512/3135/3135715.png';
+        return 'https://cdn-icons-png.flaticon.com/512/684/684908.png';
     }
-    // Fort icons
+    // Fort icons - using castle/fort icons
     if (nameLower.includes('fort') || nameLower.includes('ಕೋಟೆ') || nameLower.includes('buruj')) {
         return 'https://cdn-icons-png.flaticon.com/512/1995/1995515.png';
     }
-    // Waterfall icons
+    // Waterfall icons - using nature/waterfall icons
     if (nameLower.includes('falls') || nameLower.includes('waterfall') || nameLower.includes('ಜಲಪಾತ')) {
         return 'https://cdn-icons-png.flaticon.com/512/1723/1723128.png';
     }
-    // Beach icons
+    // Beach icons - using beach/coast icons
     if (nameLower.includes('beach') || nameLower.includes('ಬೀಚ್')) {
         return 'https://cdn-icons-png.flaticon.com/512/1723/1723125.png';
     }
-    // Lake icons
+    // Lake icons - using lake/water icons
     if (nameLower.includes('lake') || nameLower.includes('ಸರೋವರ') || nameLower.includes('dam') || nameLower.includes('ಧಾಮ್')) {
         return 'https://cdn-icons-png.flaticon.com/512/1723/1723130.png';
     }
-    // Sanctuary/Wildlife icons
+    // Sanctuary/Wildlife icons - using nature/wildlife icons
     if (nameLower.includes('sanctuary') || nameLower.includes('park') || nameLower.includes('ಅಭಯಾರಣ್ಯ') || nameLower.includes('ಉದ್ಯಾನ')) {
         return 'https://cdn-icons-png.flaticon.com/512/1723/1723129.png';
     }
-    // Cave icons
+    // Cave icons - using cave/mountain icons
     if (nameLower.includes('cave') || nameLower.includes('ಗುಹೆ') || nameLower.includes('rocks') || nameLower.includes('ಬಂಡೆ')) {
         return 'https://cdn-icons-png.flaticon.com/512/1723/1723127.png';
     }
-    // Garden/Park icons
+    // Garden/Park icons - using park/garden icons
     if (nameLower.includes('garden') || nameLower.includes('park') || nameLower.includes('ಗಾರ್ಡನ್')) {
         return 'https://cdn-icons-png.flaticon.com/512/3135/3135813.png';
     }
-    // Museum/Monument icons
+    // Museum/Monument icons - using monument/landmark icons
     if (nameLower.includes('museum') || nameLower.includes('monument') || nameLower.includes('mausoleum') || nameLower.includes('rauza') || nameLower.includes('gumbaz')) {
-        return 'https://cdn-icons-png.flaticon.com/512/3135/3135768.png';
+        return 'https://cdn-icons-png.flaticon.com/512/684/684908.png';
     }
-    // Hill/Mountain icons
+    // Hill/Mountain icons - using mountain/landscape icons
     if (nameLower.includes('hill') || nameLower.includes('mountain') || nameLower.includes('betta') || nameLower.includes('ಬೆಟ್ಟ')) {
         return 'https://cdn-icons-png.flaticon.com/512/1723/1723126.png';
     }
-    // Industry/Tech icons
-    if (nameLower.includes('tech') || nameLower.includes('industry') || nameLower.includes('park') || nameLower.includes('factory')) {
+    // Industry/Tech icons - using building/factory icons
+    if (nameLower.includes('tech') || nameLower.includes('industry') || nameLower.includes('factory')) {
         return 'https://cdn-icons-png.flaticon.com/512/3135/3135789.png';
     }
-    // Default tourism icon
-    return 'https://cdn-icons-png.flaticon.com/512/3135/3135715.png';
+    // Market/Marketplace icons
+    if (nameLower.includes('market') || nameLower.includes('ಮಾರುಕಟ್ಟೆ')) {
+        return 'https://cdn-icons-png.flaticon.com/512/3135/3135804.png';
+    }
+    // Festival/Celebration icons
+    if (nameLower.includes('festival') || nameLower.includes('utsav') || nameLower.includes('ಉತ್ಸವ')) {
+        return 'https://cdn-icons-png.flaticon.com/512/3135/3135773.png';
+    }
+    // Default tourism/landmark icon
+    return 'https://cdn-icons-png.flaticon.com/512/684/684908.png';
 }
 
 
