@@ -332,60 +332,61 @@ function createContentCard(item, lang) {
 function getIconForAttraction(name) {
     const nameLower = name.toLowerCase();
     
-    // Temple icons - using landmark/monument icons
+    // Use random images from Unsplash based on attraction type
+    // Temple images
     if (nameLower.includes('temple') || nameLower.includes('ದೇವಾಲಯ') || nameLower.includes('ಮಸೀದಿ') || nameLower.includes('masjid')) {
-        return 'https://cdn-icons-png.flaticon.com/512/684/684908.png';
+        return 'https://images.unsplash.com/photo-1587590227264-0ac04a8d95c3?w=400&h=300&fit=crop';
     }
-    // Fort icons - using castle/fort icons
+    // Fort images
     if (nameLower.includes('fort') || nameLower.includes('ಕೋಟೆ') || nameLower.includes('buruj')) {
-        return 'https://cdn-icons-png.flaticon.com/512/1995/1995515.png';
+        return 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=300&fit=crop';
     }
-    // Waterfall icons - using nature/waterfall icons
+    // Waterfall images
     if (nameLower.includes('falls') || nameLower.includes('waterfall') || nameLower.includes('ಜಲಪಾತ')) {
-        return 'https://cdn-icons-png.flaticon.com/512/1723/1723128.png';
+        return 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop';
     }
-    // Beach icons - using beach/coast icons
+    // Beach images
     if (nameLower.includes('beach') || nameLower.includes('ಬೀಚ್')) {
-        return 'https://cdn-icons-png.flaticon.com/512/1723/1723125.png';
+        return 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=300&fit=crop';
     }
-    // Lake icons - using lake/water icons
+    // Lake images
     if (nameLower.includes('lake') || nameLower.includes('ಸರೋವರ') || nameLower.includes('dam') || nameLower.includes('ಧಾಮ್')) {
-        return 'https://cdn-icons-png.flaticon.com/512/1723/1723130.png';
+        return 'https://images.unsplash.com/photo-1501594907352-04cda38ebc29?w=400&h=300&fit=crop';
     }
-    // Sanctuary/Wildlife icons - using nature/wildlife icons
+    // Sanctuary/Wildlife images
     if (nameLower.includes('sanctuary') || nameLower.includes('park') || nameLower.includes('ಅಭಯಾರಣ್ಯ') || nameLower.includes('ಉದ್ಯಾನ')) {
-        return 'https://cdn-icons-png.flaticon.com/512/1723/1723129.png';
+        return 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=300&fit=crop';
     }
-    // Cave icons - using cave/mountain icons
+    // Cave images
     if (nameLower.includes('cave') || nameLower.includes('ಗುಹೆ') || nameLower.includes('rocks') || nameLower.includes('ಬಂಡೆ')) {
-        return 'https://cdn-icons-png.flaticon.com/512/1723/1723127.png';
+        return 'https://images.unsplash.com/photo-1519681393784-d120267933ba?w=400&h=300&fit=crop';
     }
-    // Garden/Park icons - using park/garden icons
+    // Garden/Park images
     if (nameLower.includes('garden') || nameLower.includes('park') || nameLower.includes('ಗಾರ್ಡನ್')) {
-        return 'https://cdn-icons-png.flaticon.com/512/3135/3135813.png';
+        return 'https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=300&fit=crop';
     }
-    // Museum/Monument icons - using monument/landmark icons
+    // Museum/Monument images
     if (nameLower.includes('museum') || nameLower.includes('monument') || nameLower.includes('mausoleum') || nameLower.includes('rauza') || nameLower.includes('gumbaz')) {
-        return 'https://cdn-icons-png.flaticon.com/512/684/684908.png';
+        return 'https://images.unsplash.com/photo-1515542622106-78bda8ba0e5b?w=400&h=300&fit=crop';
     }
-    // Hill/Mountain icons - using mountain/landscape icons
+    // Hill/Mountain images
     if (nameLower.includes('hill') || nameLower.includes('mountain') || nameLower.includes('betta') || nameLower.includes('ಬೆಟ್ಟ')) {
-        return 'https://cdn-icons-png.flaticon.com/512/1723/1723126.png';
+        return 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop';
     }
-    // Industry/Tech icons - using building/factory icons
+    // Industry/Tech images
     if (nameLower.includes('tech') || nameLower.includes('industry') || nameLower.includes('factory')) {
-        return 'https://cdn-icons-png.flaticon.com/512/3135/3135789.png';
+        return 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=300&fit=crop';
     }
-    // Market/Marketplace icons
+    // Market/Marketplace images
     if (nameLower.includes('market') || nameLower.includes('ಮಾರುಕಟ್ಟೆ')) {
-        return 'https://cdn-icons-png.flaticon.com/512/3135/3135804.png';
+        return 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop';
     }
-    // Festival/Celebration icons
+    // Festival/Celebration images
     if (nameLower.includes('festival') || nameLower.includes('utsav') || nameLower.includes('ಉತ್ಸವ')) {
-        return 'https://cdn-icons-png.flaticon.com/512/3135/3135773.png';
+        return 'https://images.unsplash.com/photo-1603574670812-d24560880210?w=400&h=300&fit=crop';
     }
-    // Default tourism/landmark icon
-    return 'https://cdn-icons-png.flaticon.com/512/684/684908.png';
+    // Default tourism/landmark image
+    return 'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=400&h=300&fit=crop';
 }
 
 
