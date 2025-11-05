@@ -84,33 +84,41 @@ function initializeLanguage() {
 }
 
 function updateLanguage() {
-    // Add/remove kannada class to body
-    if (currentLanguage === 'kn') {
-        document.body.classList.add('kannada');
-    } else {
-        document.body.classList.remove('kannada');
-    }
-    
-    // Set global variable for other scripts
-    window.currentLanguage = currentLanguage;
-    
-    // Update all elements with data-en and data-kn attributes
-    document.querySelectorAll('[data-en][data-kn]').forEach(element => {
-        const text = currentLanguage === 'en' ? element.dataset.en : element.dataset.kn;
-        
-        // Handle placeholders
-        if (element.tagName === 'INPUT') {
-            const placeholder = currentLanguage === 'en' ? element.dataset.enPlaceholder : element.dataset.knPlaceholder;
-            if (placeholder) {
-                element.placeholder = placeholder;
-            }
+    // Use requestAnimationFrame to prevent flickering
+    requestAnimationFrame(() => {
+        // Add/remove kannada class to body
+        if (currentLanguage === 'kn') {
+            document.body.classList.add('kannada');
         } else {
-            element.textContent = text;
+            document.body.classList.remove('kannada');
         }
+        
+        // Set global variable for other scripts
+        window.currentLanguage = currentLanguage;
+        
+        // Batch DOM updates to prevent flickering
+        const elementsToUpdate = document.querySelectorAll('[data-en][data-kn]');
+        const fragment = document.createDocumentFragment();
+        
+        // Update all elements with data-en and data-kn attributes
+        elementsToUpdate.forEach(element => {
+            const text = currentLanguage === 'en' ? element.dataset.en : element.dataset.kn;
+            
+            // Handle placeholders
+            if (element.tagName === 'INPUT') {
+                const placeholder = currentLanguage === 'en' ? element.dataset.enPlaceholder : element.dataset.knPlaceholder;
+                if (placeholder) {
+                    element.placeholder = placeholder;
+                }
+            } else {
+                // Use textContent for instant update without flicker
+                element.textContent = text;
+            }
+        });
+        
+        // Dispatch custom event for other scripts
+        document.dispatchEvent(new CustomEvent('languageChanged', { detail: { language: currentLanguage } }));
     });
-    
-    // Dispatch custom event for other scripts
-    document.dispatchEvent(new CustomEvent('languageChanged', { detail: { language: currentLanguage } }));
 }
 
 // ============================================

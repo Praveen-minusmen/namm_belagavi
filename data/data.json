@@ -235,10 +235,76 @@
               "kn": "ಬೆಳಗಾವಿ ಕೋಟೆ"
             },
             "description": {
-              "en": "A historic fort with beautiful architecture and scenic views.",
-              "kn": "ಸುಂದರ ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಸುಂದರ ನೋಟಗಳೊಂದಿಗೆ ಐತಿಹಾಸಿಕ ಕೋಟೆ."
+              "en": "Ancient fort built by the Rattas; contains Jain, Hindu & Muslim shrines.",
+              "kn": "ರಟ್ಟರುಗಳಿಂದ ನಿರ್ಮಿಸಿದ ಪ್ರಾಚೀನ ಕೋಟೆ; ಜೈನ, ಹಿಂದೂ ಮತ್ತು ಮುಸ್ಲಿಂ ದೇವಾಲಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ."
             },
-            "photo": "https://via.placeholder.com/400x300?text=Belagavi+Fort"
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Belgaum_Fort.jpg"
+          },
+          {
+            "name": {
+              "en": "Gokak Falls",
+              "kn": "ಗೋಕಾಕ್ ಜಲಪಾತ"
+            },
+            "description": {
+              "en": "Scenic waterfall on the Ghataprabha River, often called the Mini Niagara of Karnataka.",
+              "kn": "ಘಟಪ್ರಭಾ ನದಿಯ ಮೇಲೆ ಸುಂದರ ಜಲಪಾತ, ಸಾಮಾನ್ಯವಾಗಿ ಕರ್ನಾಟಕದ ಮಿನಿ ನಯಾಗರಾ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gokak_Falls_Karnataka.jpg"
+          },
+          {
+            "name": {
+              "en": "Yellamma Temple, Saundatti",
+              "kn": "ಯಲ್ಲಮ್ಮ ದೇವಾಲಯ, ಸವದತ್ತಿ"
+            },
+            "description": {
+              "en": "Sacred temple dedicated to Goddess Renuka Yellamma; major pilgrimage site.",
+              "kn": "ದೇವಿ ರೇಣುಕಾ ಯಲ್ಲಮ್ಮಗೆ ಸಮರ್ಪಿತವಾದ ಪವಿತ್ರ ದೇವಾಲಯ; ಪ್ರಮುಖ ಯಾತ್ರಾ ಸ್ಥಳ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Yellamma_Temple_Saundatti.jpg"
+          },
+          {
+            "name": {
+              "en": "Jamboti Hills",
+              "kn": "ಜಂಬೋಟಿ ಬೆಟ್ಟಗಳು"
+            },
+            "description": {
+              "en": "Beautiful range in Western Ghats rich in flora and fauna.",
+              "kn": "ಪಶ್ಚಿಮ ಘಟ್ಟಗಳಲ್ಲಿನ ಸುಂದರ ವ್ಯಾಪ್ತಿ, ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಸಂಪತ್ತಿನಿಂದ ಸಮೃದ್ಧವಾಗಿದೆ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jamboti_Hills_Karnataka.jpg"
+          },
+          {
+            "name": {
+              "en": "Kittur Fort",
+              "kn": "ಕಿತ್ತೂರು ಕೋಟೆ"
+            },
+            "description": {
+              "en": "Historic fort where Rani Chennamma led a rebellion against the British in 1824.",
+              "kn": "ಐತಿಹಾಸಿಕ ಕೋಟೆ, ಅಲ್ಲಿ ರಾಣಿ ಚೆನ್ನಮ್ಮ 1824 ರಲ್ಲಿ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ದಂಗೆಯನ್ನು ನಡೆಸಿದರು."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kittur_Fort_Belagavi.jpg"
+          },
+          {
+            "name": {
+              "en": "Bhimgad Wildlife Sanctuary",
+              "kn": "ಭೀಮಗದ ವನ್ಯಜೀವಿ ಅಭಯಾರಣ್ಯ"
+            },
+            "description": {
+              "en": "Dense forest reserve known for bats and biodiversity.",
+              "kn": "ಬೆಟ್ಟುಗಳು ಮತ್ತು ಜೀವವೈವಿಧ್ಯಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ದಟ್ಟ ಕಾಡು ಮೀಸಲು."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bhimgad_Sanctuary.jpg"
+          },
+          {
+            "name": {
+              "en": "Suvarna Soudha",
+              "kn": "ಸುವರ್ಣ ಸೌಧ"
+            },
+            "description": {
+              "en": "Iconic state legislative building symbolizing modern Belagavi.",
+              "kn": "ಆಧುನಿಕ ಬೆಳಗಾವಿಯನ್ನು ಸಂಕೇತಿಸುವ ಐಕಾನಿಕ್ ರಾಜ್ಯ ಶಾಸಕಾಂಗ ಕಟ್ಟಡ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Suvarna_Vidhana_Soudha_Belagavi.jpg"
           }
         ]
       },
@@ -337,14 +403,69 @@
         "touristAttractions": [
           {
             "name": {
-              "en": "Karnataka University",
-              "kn": "ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ"
+              "en": "Unkal Lake",
+              "kn": "ಉಂಕಲ್ ಸರೋವರ"
             },
             "description": {
-              "en": "Prestigious educational institution known for academic excellence.",
-              "kn": "ಶೈಕ್ಷಣಿಕ ಉತ್ಕೃಷ್ಟತೆಗೆ ಹೆಸರುವಾಸಿಯಾದ ಪ್ರತಿಷ್ಠಿತ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆ."
+              "en": "Beautiful lake featuring Lord Basavanna's statue and boating.",
+              "kn": "ಲಾರ್ಡ್ ಬಸವಣ್ಣನ ಪ್ರತಿಮೆ ಮತ್ತು ಬೋಟಿಂಗ್ ಅನ್ನು ಒಳಗೊಂಡಿರುವ ಸುಂದರ ಸರೋವರ."
             },
-            "photo": "https://via.placeholder.com/400x300?text=Karnataka+University"
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Unkal_Lake_Hubli.jpg"
+          },
+          {
+            "name": {
+              "en": "Chandramouleshwara Temple",
+              "kn": "ಚಂದ್ರಮೌಲೇಶ್ವರ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "900-year-old temple showcasing Chalukyan architecture.",
+              "kn": "ಚಾಲುಕ್ಯ ವಾಸ್ತುಶಿಲ್ಪವನ್ನು ಪ್ರದರ್ಶಿಸುವ 900 ವರ್ಷಗಳ ಹಳೆಯ ದೇವಾಲಯ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Chandramouleshwara_Temple_Unkal.jpg"
+          },
+          {
+            "name": {
+              "en": "Sadhanakeri Park",
+              "kn": "ಸಾಧನಕೇರಿ ಪಾರ್ಕ್"
+            },
+            "description": {
+              "en": "Peaceful park dedicated to poet Da. Ra. Bendre.",
+              "kn": "ಕವಿ ಡಾ. ರಾ. ಬೇಂದ್ರೆಗೆ ಸಮರ್ಪಿತವಾದ ಶಾಂತ ಪಾರ್ಕ್."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sadhankeri_Park_Dharwad.jpg"
+          },
+          {
+            "name": {
+              "en": "ISKCON Hubballi",
+              "kn": "ಇಸ್ಕಾನ್ ಹುಬ್ಬಳ್ಳಿ"
+            },
+            "description": {
+              "en": "Large spiritual complex attracting thousands of visitors.",
+              "kn": "ಸಾವಿರಾರು ಭೇಟಿಗಾರರನ್ನು ಆಕರ್ಷಿಸುವ ದೊಡ್ಡ ಆಧ್ಯಾತ್ಮಿಕ ಸಂಕೀರ್ಣ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ee/ISKCON_Temple_Hubballi.jpg"
+          },
+          {
+            "name": {
+              "en": "Indira Glass House Garden",
+              "kn": "ಇಂದಿರಾ ಗ್ಲಾಸ್ ಹೌಸ್ ಗಾರ್ಡನ್"
+            },
+            "description": {
+              "en": "Horticultural garden famous for flower shows and fairs.",
+              "kn": "ಹೂವಿನ ಪ್ರದರ್ಶನಗಳು ಮತ್ತು ಜಾತ್ರೆಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ತೋಟಗಾರಿಕೆಯ ಉದ್ಯಾನ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Indira_Glass_House_Hubli.jpg"
+          },
+          {
+            "name": {
+              "en": "Nrupatunga Betta",
+              "kn": "ನೃಪತುಂಗ ಬೆಟ್ಟ"
+            },
+            "description": {
+              "en": "Hilltop park offering panoramic view of Hubballi city.",
+              "kn": "ಹುಬ್ಬಳ್ಳಿ ನಗರದ ಪ್ಯಾನೊರಮಿಕ್ ನೋಟವನ್ನು ಒದಗಿಸುವ ಬೆಟ್ಟದ ಮೇಲಿನ ಪಾರ್ಕ್."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Nrupatunga_Betta_Hubli.jpg"
           }
         ]
       },
@@ -431,14 +552,58 @@
         "touristAttractions": [
           {
             "name": {
+              "en": "Trikuteshwara Temple",
+              "kn": "ತ್ರಿಕೂಟೇಶ್ವರ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Renowned Chalukyan temple dedicated to Lord Shiva.",
+              "kn": "ಲಾರ್ಡ್ ಶಿವನಿಗೆ ಸಮರ್ಪಿತವಾದ ಪ್ರಸಿದ್ಧ ಚಾಲುಕ್ಯ ದೇವಾಲಯ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/9/95/Trikuteshwara_Temple_Gadag.jpg"
+          },
+          {
+            "name": {
+              "en": "Lakkundi Stepwells",
+              "kn": "ಲಕ್ಕುಂಡಿ ಬಾವಿಗಳು"
+            },
+            "description": {
+              "en": "Village of stepwells and temples reflecting ancient art.",
+              "kn": "ಪ್ರಾಚೀನ ಕಲೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ ಬಾವಿಗಳು ಮತ್ತು ದೇವಾಲಯಗಳ ಗ್ರಾಮ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lakkundi_Stepwell.jpg"
+          },
+          {
+            "name": {
+              "en": "Dambal Temple",
+              "kn": "ದಂಬಲ್ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Jain-Hindu temple site known for its ancient carvings.",
+              "kn": "ಅದರ ಪ್ರಾಚೀನ ಕೆತ್ತನೆಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ಜೈನ-ಹಿಂದೂ ದೇವಾಲಯ ಸ್ಥಳ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dambal_Temple_Gadag.jpg"
+          },
+          {
+            "name": {
               "en": "Veeranarayana Temple",
               "kn": "ವೀರನಾರಾಯಣ ದೇವಾಲಯ"
             },
             "description": {
-              "en": "Historic temple with beautiful architecture.",
-              "kn": "ಸುಂದರ ವಾಸ್ತುಶಿಲ್ಪದಿಂದ ಕೂಡಿದ ಐತಿಹಾಸಿಕ ದೇವಾಲಯ."
+              "en": "Architectural gem known for exquisite carvings and legends.",
+              "kn": "ಉತ್ತಮ ಕೆತ್ತನೆಗಳು ಮತ್ತು ದಂತಕಥೆಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ವಾಸ್ತುಶಿಲ್ಪದ ರತ್ನ."
             },
-            "photo": "https://via.placeholder.com/400x300?text=Veeranarayana+Temple"
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Veeranarayana_Temple_Gadag.jpg"
+          },
+          {
+            "name": {
+              "en": "Itagi Mahadeva Temple",
+              "kn": "ಇಟಗಿ ಮಹಾದೇವ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Considered the 'Emperor among Temples' of the Chalukya era.",
+              "kn": "ಚಾಲುಕ್ಯ ಯುಗದ 'ದೇವಾಲಯಗಳ ನಡುವೆ ಚಕ್ರವರ್ತಿ' ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/2/25/Itagi_Mahadeva_Temple.jpg"
           }
         ]
       },
@@ -525,14 +690,58 @@
         "touristAttractions": [
           {
             "name": {
-              "en": "Mukteshwara Temple",
-              "kn": "ಮುಕ್ತೇಶ್ವರ ದೇವಾಲಯ"
+              "en": "Ranebennur Blackbuck Sanctuary",
+              "kn": "ರಣೇಬೆನ್ನೂರು ಕೃಷ್ಣಮೃಗ ಅಭಯಾರಣ್ಯ"
             },
             "description": {
-              "en": "Historic temple with beautiful Chalukyan architecture.",
-              "kn": "ಸುಂದರ ಚಾಲುಕ್ಯ ವಾಸ್ತುಶಿಲ್ಪದಿಂದ ಕೂಡಿದ ಐತಿಹಾಸಿಕ ದೇವಾಲಯ."
+              "en": "Wildlife sanctuary protecting blackbucks and rare birds.",
+              "kn": "ಕೃಷ್ಣಮೃಗಗಳು ಮತ್ತು ಅಪರೂಪದ ಪಕ್ಷಿಗಳನ್ನು ರಕ್ಷಿಸುವ ವನ್ಯಜೀವಿ ಅಭಯಾರಣ್ಯ."
             },
-            "photo": "https://via.placeholder.com/400x300?text=Mukteshwara+Temple"
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ranebennur_Blackbuck_Sanctuary.jpg"
+          },
+          {
+            "name": {
+              "en": "Byadgi Chili Market",
+              "kn": "ಬ್ಯಾಡಗಿ ಮೆಣಸಿನಕಾಯಿ ಮಾರುಕಟ್ಟೆ"
+            },
+            "description": {
+              "en": "Asia-famous chili trading hub known for Byadgi red chilies.",
+              "kn": "ಬ್ಯಾಡಗಿ ಕೆಂಪು ಮೆಣಸಿನಕಾಯಿಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ಏಷ್ಯಾ-ಪ್ರಸಿದ್ಧ ಮೆಣಸಿನಕಾಯಿ ವ್ಯಾಪಾರ ಕೇಂದ್ರ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Byadgi_Chilli_Market.jpg"
+          },
+          {
+            "name": {
+              "en": "Hangal Tarakeshwara Temple",
+              "kn": "ಹಂಗಲ್ ತಾರಕೇಶ್ವರ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Magnificent Chalukya temple famous for its massive Nandi.",
+              "kn": "ಅದರ ಬೃಹತ್ ನಂದಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ಭವ್ಯವಾದ ಚಾಲುಕ್ಯ ದೇವಾಲಯ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Tarakeshwara_Temple_Hangal.jpg"
+          },
+          {
+            "name": {
+              "en": "Bankapura Peacock Sanctuary",
+              "kn": "ಬಂಕಾಪುರ ನವಿಲು ಅಭಯಾರಣ್ಯ"
+            },
+            "description": {
+              "en": "Exclusive sanctuary dedicated to peacocks and heritage ruins.",
+              "kn": "ನವಿಲುಗಳು ಮತ್ತು ಪರಂಪರೆಯ ಕುರುಹುಗಳಿಗೆ ಸಮರ್ಪಿತವಾದ ವಿಶೇಷ ಅಭಯಾರಣ್ಯ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Bankapura_Peacock_Sanctuary.jpg"
+          },
+          {
+            "name": {
+              "en": "Siddheshwara Temple, Haveri",
+              "kn": "ಸಿದ್ಧೇಶ್ವರ ದೇವಾಲಯ, ಹಾವೇರಿ"
+            },
+            "description": {
+              "en": "Temple showcasing Chalukyan-era design and sculptures.",
+              "kn": "ಚಾಲುಕ್ಯ-ಯುಗದ ವಿನ್ಯಾಸ ಮತ್ತು ಶಿಲ್ಪಗಳನ್ನು ಪ್ರದರ್ಶಿಸುವ ದೇವಾಲಯ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Siddheshwara_Temple_Haveri.jpg"
           }
         ]
       },
@@ -630,14 +839,69 @@
         "touristAttractions": [
           {
             "name": {
-              "en": "Badami Caves",
-              "kn": "ಬಾದಾಮಿ ಗುಹೆಗಳು"
+              "en": "Badami Cave Temples",
+              "kn": "ಬಾದಾಮಿ ಗುಹಾ ದೇವಾಲಯಗಳು"
             },
             "description": {
-              "en": "Ancient rock-cut cave temples with beautiful carvings dating back to the 6th century.",
-              "kn": "6ನೇ ಶತಮಾನಕ್ಕೆ ಹಿಂದಿನ ಸುಂದರ ಕೆತ್ತನೆಗಳೊಂದಿಗೆ ಪ್ರಾಚೀನ ಬಂಡೆ ಕತ್ತರಿಸಿದ ಗುಹಾ ದೇವಾಲಯಗಳು."
+              "en": "Rock-cut Chalukyan temples known for stunning carvings.",
+              "kn": "ಆಕರ್ಷಕ ಕೆತ್ತನೆಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ಬಂಡೆ ಕತ್ತರಿಸಿದ ಚಾಲುಕ್ಯ ದೇವಾಲಯಗಳು."
             },
-            "photo": "https://via.placeholder.com/400x300?text=Badami+Caves"
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Badami_Caves.jpg"
+          },
+          {
+            "name": {
+              "en": "Aihole Temple Complex",
+              "kn": "ಐಹೊಳೆ ದೇವಾಲಯ ಸಂಕೀರ್ಣ"
+            },
+            "description": {
+              "en": "Cradle of Indian temple architecture with 100+ shrines.",
+              "kn": "100+ ದೇವಾಲಯಗಳೊಂದಿಗೆ ಭಾರತೀಯ ದೇವಾಲಯ ವಾಸ್ತುಶಿಲ್ಪದ ಜನನಸ್ಥಳ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Aihole_Hindu_Temple.jpg"
+          },
+          {
+            "name": {
+              "en": "Pattadakal Temples",
+              "kn": "ಪಟ್ಟದಕಲ್ಲು ದೇವಾಲಯಗಳು"
+            },
+            "description": {
+              "en": "UNESCO World Heritage site showcasing Chalukyan art.",
+              "kn": "ಚಾಲುಕ್ಯ ಕಲೆಯನ್ನು ಪ್ರದರ್ಶಿಸುವ ಯುನೆಸ್ಕೊ ವಿಶ್ವ ಪರಂಪರೆಯ ಸ್ಥಳ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Pattadakal_Temples.jpg"
+          },
+          {
+            "name": {
+              "en": "Banashankari Temple",
+              "kn": "ಬನಶಂಕರಿ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Historic temple dedicated to Goddess Banashankari.",
+              "kn": "ದೇವಿ ಬನಶಂಕರಿಗೆ ಸಮರ್ಪಿತವಾದ ಐತಿಹಾಸಿಕ ದೇವಾಲಯ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Banashankari_Temple_Badami.jpg"
+          },
+          {
+            "name": {
+              "en": "Kudalasangama",
+              "kn": "ಕೂಡಲಸಂಗಮ"
+            },
+            "description": {
+              "en": "Sacred confluence of Krishna and Malaprabha rivers.",
+              "kn": "ಕೃಷ್ಣ ಮತ್ತು ಮಲಪ್ರಭಾ ನದಿಗಳ ಪವಿತ್ರ ಸಂಗಮ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Kudalasangama_Temple.jpg"
+          },
+          {
+            "name": {
+              "en": "Almatti Dam",
+              "kn": "ಅಲಮಟ್ಟಿ ಧಾಮ್"
+            },
+            "description": {
+              "en": "Scenic reservoir offering boating and gardens.",
+              "kn": "ಬೋಟಿಂಗ್ ಮತ್ತು ಉದ್ಯಾನವನಗಳನ್ನು ಒದಗಿಸುವ ಸುಂದರ ಜಲಾಶಯ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Almatti_Dam_Bagalkot.jpg"
           }
         ]
       },
@@ -747,14 +1011,69 @@
         "touristAttractions": [
           {
             "name": {
-              "en": "Bijapur Fort",
-              "kn": "ಬಿಜಾಪುರ ಕೋಟೆ"
+              "en": "Gol Gumbaz",
+              "kn": "ಗೋಲ್ ಗುಂಬಜ್"
             },
             "description": {
-              "en": "Historic fort with impressive architecture and monuments.",
-              "kn": "ಭಾರಿ ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಸ್ಮಾರಕಗಳೊಂದಿಗೆ ಐತಿಹಾಸಿಕ ಕೋಟೆ."
+              "en": "Tomb of Mohammed Adil Shah with the world-famous whispering dome.",
+              "kn": "ವಿಶ್ವ-ಪ್ರಸಿದ್ಧ ವಿಸ್ಪರಿಂಗ್ ಗುಂಬಜ್ನೊಂದಿಗೆ ಮೊಹಮ್ಮದ್ ಆದಿಲ್ ಶಾಹನ ಸಮಾಧಿ."
             },
-            "photo": "https://via.placeholder.com/400x300?text=Bijapur+Fort"
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gol_Gumbaz_Bijapur.jpg"
+          },
+          {
+            "name": {
+              "en": "Ibrahim Rauza",
+              "kn": "ಇಬ್ರಾಹಿಂ ರೌಜಾ"
+            },
+            "description": {
+              "en": "Called the 'Taj Mahal of Deccan', a beautiful tomb complex.",
+              "kn": "'ದಕ್ಕನ್ ತಾಜ್ ಮಹಲ್' ಎಂದು ಕರೆಯಲ್ಪಡುವ ಸುಂದರ ಸಮಾಧಿ ಸಂಕೀರ್ಣ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Ibrahim_Rauza_Bijapur.jpg"
+          },
+          {
+            "name": {
+              "en": "Jama Masjid",
+              "kn": "ಜಾಮಾ ಮಸೀದಿ"
+            },
+            "description": {
+              "en": "One of the largest and oldest mosques in Karnataka.",
+              "kn": "ಕರ್ನಾಟಕದ ಅತಿದೊಡ್ಡ ಮತ್ತು ಹಳೆಯ ಮಸೀದಿಗಳಲ್ಲಿ ಒಂದು."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Jama_Masjid_Bijapur.jpg"
+          },
+          {
+            "name": {
+              "en": "Malik-e-Maidan Cannon",
+              "kn": "ಮಲಿಕ್-ಎ-ಮೈದಾನ್ ಕೇನನ್"
+            },
+            "description": {
+              "en": "Gigantic cannon, one of Asia's largest medieval guns.",
+              "kn": "ದೈತ್ಯಾಕಾರದ ಕೇನನ್, ಏಷ್ಯಾದ ಅತಿದೊಡ್ಡ ಮಧ್ಯಕಾಲೀನ ಬಂದೂಕುಗಳಲ್ಲಿ ಒಂದು."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Malik-e-Maidan_Cannon_Bijapur.jpg"
+          },
+          {
+            "name": {
+              "en": "Barakaman",
+              "kn": "ಬರಕಾಮನ್"
+            },
+            "description": {
+              "en": "Unfinished tomb with striking symmetrical arches.",
+              "kn": "ನಾಟಕೀಯ ಸಮ್ಮಿತೀಯ ಕಮಾನುಗಳೊಂದಿಗೆ ಅಪೂರ್ಣ ಸಮಾಧಿ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Barakaman_Bijapur.jpg"
+          },
+          {
+            "name": {
+              "en": "Upli Buruj",
+              "kn": "ಉಪ್ಪಲಿ ಬುರುಜ್"
+            },
+            "description": {
+              "en": "Historic watchtower offering a bird's-eye view of the city.",
+              "kn": "ನಗರದ ಪಕ್ಷಿಯ ನೋಟವನ್ನು ಒದಗಿಸುವ ಐತಿಹಾಸಿಕ ವಾಚ್‌ಟವರ್."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Upli_Buruj_Bijapur.jpg"
           }
         ]
       },
@@ -887,25 +1206,80 @@
         "touristAttractions": [
           {
             "name": {
-              "en": "Gokarna Beach",
-              "kn": "ಗೋಕರ್ಣ ಬೀಚ್"
-            },
-            "description": {
-              "en": "Famous beach town known for its pristine beaches and spiritual significance.",
-              "kn": "ಅದರ ನಿಸರ್ಗದ ಕಡಲತೀರಗಳು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹತ್ವಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ಪ್ರಸಿದ್ಧ ಬೀಚ್ ನಗರ."
-            },
-            "photo": "https://via.placeholder.com/400x300?text=Gokarna+Beach"
-          },
-          {
-            "name": {
               "en": "Jog Falls",
               "kn": "ಜೋಗ್ ಜಲಪಾತ"
             },
             "description": {
-              "en": "One of India's highest waterfalls, a magnificent natural wonder.",
-              "kn": "ಭಾರತದ ಅತ್ಯಧಿಕ ಜಲಪಾತಗಳಲ್ಲಿ ಒಂದು, ಭವ್ಯವಾದ ನೈಸರ್ಗಿಕ ಅದ್ಭುತ."
+              "en": "India's second-highest plunge waterfall formed by the Sharavathi River.",
+              "kn": "ಶರಾವತಿ ನದಿಯಿಂದ ರೂಪುಗೊಂಡ ಭಾರತದ ಎರಡನೇ ಅತ್ಯಧಿಕ ಪ್ಲಂಜ್ ಜಲಪಾತ."
             },
-            "photo": "https://via.placeholder.com/400x300?text=Jog+Falls"
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jog_Falls_Karnataka.jpg"
+          },
+          {
+            "name": {
+              "en": "Karwar Beach",
+              "kn": "ಕಾರವಾರ ಬೀಚ್"
+            },
+            "description": {
+              "en": "Pristine beach and naval hub; inspired Rabindranath Tagore's poetry.",
+              "kn": "ನಿಸರ್ಗದ ಬೀಚ್ ಮತ್ತು ನೌಕಾ ಕೇಂದ್ರ; ರವೀಂದ್ರನಾಥ ಟಾಗೋರ್‌ನ ಕವಿತೆಯನ್ನು ಪ್ರೇರೇಪಿಸಿದೆ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Karwar_Beach.jpg"
+          },
+          {
+            "name": {
+              "en": "Mirjan Fort",
+              "kn": "ಮಿರ್ಜನ್ ಕೋಟೆ"
+            },
+            "description": {
+              "en": "Laterite fort surrounded by lush greenery and a moat.",
+              "kn": "ಹಸಿರು ಸಸ್ಯಗಳು ಮತ್ತು ಕಂದಕದಿಂದ ಸುತ್ತುವರಿದ ಲ್ಯಾಟರೈಟ್ ಕೋಟೆ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Mirjan_Fort_Karwar.jpg"
+          },
+          {
+            "name": {
+              "en": "Dandeli Wildlife Sanctuary",
+              "kn": "ದಾಂಡೇಲಿ ವನ್ಯಜೀವಿ ಅಭಯಾರಣ್ಯ"
+            },
+            "description": {
+              "en": "Adventure hub with river rafting, trekking, and wildlife safari.",
+              "kn": "ನದಿ ರಾಫ್ಟಿಂಗ್, ಟ್ರೆಕ್ಕಿಂಗ್ ಮತ್ತು ವನ್ಯಜೀವಿ ಸಫಾರಿ ಹೊಂದಿರುವ ಸಾಹಸ ಕೇಂದ್ರ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Dandeli_Wildlife_Sanctuary.jpg"
+          },
+          {
+            "name": {
+              "en": "Syntheri Rocks",
+              "kn": "ಸಿಂಥೇರಿ ಬಂಡೆಗಳು"
+            },
+            "description": {
+              "en": "Monolithic limestone rock formations carved by the Kalinadi River.",
+              "kn": "ಕಲಿನಾಡಿ ನದಿಯಿಂದ ಕೆತ್ತಲಾದ ಏಕಶಿಲೆಯ ಸುಣ್ಣದ ಬಂಡೆ ರಚನೆಗಳು."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Syntheri_Rocks.jpg"
+          },
+          {
+            "name": {
+              "en": "Sirsi Marikamba Temple",
+              "kn": "ಸಿರಸಿ ಮಾರಿಕಾಂಬಾ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Famous temple known for its grand biennial festival.",
+              "kn": "ಅದರ ಭವ್ಯ ದ್ವೈವಾರ್ಷಿಕ ಉತ್ಸವಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ಪ್ರಸಿದ್ಧ ದೇವಾಲಯ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Marikamba_Temple_Sirsi.jpg"
+          },
+          {
+            "name": {
+              "en": "Gokarna Beach & Mahabaleshwar Temple",
+              "kn": "ಗೋಕರ್ಣ ಬೀಚ್ ಮತ್ತು ಮಹಾಬಲೇಶ್ವರ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Spiritual coastal town blending religion and relaxation.",
+              "kn": "ಧರ್ಮ ಮತ್ತು ವಿಶ್ರಾಂತಿಯನ್ನು ಮಿಶ್ರಣ ಮಾಡುವ ಆಧ್ಯಾತ್ಮಿಕ ಕರಾವಳಿ ನಗರ."
+            },
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gokarna_Beach_Temple.jpg"
           }
         ]
       }

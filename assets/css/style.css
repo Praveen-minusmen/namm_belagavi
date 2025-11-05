@@ -32,6 +32,9 @@
     
     /* Transitions */
     --transition: all 0.3s ease;
+    
+    /* Prevent text flickering */
+    --text-transition: color 0.2s ease, background-color 0.2s ease;
 }
 
 /* ============================================
@@ -573,6 +576,42 @@ body {
         opacity: 1;
         transform: translateY(0);
     }
+}
+
+/* Prevent text flickering during language changes */
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+/* Disable transitions on text elements with bilingual content */
+[data-en][data-kn] {
+    transition: none !important;
+    will-change: auto;
+    opacity: 1;
+}
+
+/* Smooth text updates without flicker */
+.nav-menu a,
+.nav-brand h1,
+.tagline,
+.hero-subtitle,
+.section-title,
+.section-subtitle {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+    will-change: contents;
+}
+
+/* Prevent flicker on headings and text during language change */
+h1, h2, h3, h4, h5, h6,
+p, span, div,
+button, a, li {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 .content-section {
