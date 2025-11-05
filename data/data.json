@@ -1,0 +1,915 @@
+{
+  "belagaviDivision": {
+    "tagline": {
+      "en": "Belagavi Division — Where Geography Breathes, History Speaks, and Culture Dances.",
+      "kn": "ಬೆಳಗಾವಿ ವಿಭಾಗ — ಭೂಗೋಳವು ಉಸಿರಾಡುವ, ಇತಿಹಾಸವು ಮಾತನಾಡುವ ಮತ್ತು ಸಂಸ್ಕೃತಿಯು ನೃತ್ಯ ಮಾಡುವ ಸ್ಥಳ."
+    },
+    "districts": [
+      {
+        "name": {
+          "en": "Belagavi",
+          "kn": "ಬೆಳಗಾವಿ"
+        },
+        "tagline": {
+          "en": "The soil that gave warriors and wisdom to the world.",
+          "kn": "ಯೋಧರು ಮತ್ತು ಜ್ಞಾನವನ್ನು ಜಗತ್ತಿಗೆ ನೀಡಿದ ಮಣ್ಣು."
+        },
+        "mainPhoto": "assets/images/belagavi-main.jpg",
+        "coordinates": {
+          "lat": 15.8497,
+          "lng": 74.4977
+        },
+        "geography": {
+          "en": "Located in Northern Karnataka; part of Western Ghats & Bayalu Seeme transition zone. Rivers: Malaprabha, Ghataprabha. Climate: Moderate; monsoon July–Sept; fertile black soil.",
+          "kn": "ಉತ್ತರ ಕರ್ನಾಟಕದಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ; ಪಶ್ಚಿಮ ಘಟ್ಟಗಳು ಮತ್ತು ಬಯಲು ಸೀಮೆ ಪರಿವರ್ತನಾ ವಲಯದ ಭಾಗ. ನದಿಗಳು: ಮಲಪ್ರಭ, ಘಟಪ್ರಭ. ಹವಾಮಾನ: ಮಧ್ಯಮ; ಮಳೆಗಾಲ ಜುಲೈ-ಸೆಪ್ಟೆಂಬರ್; ಫಲವತ್ತಾದ ಕಪ್ಪು ಮಣ್ಣು."
+        },
+        "historicalPlaces": [
+          {
+            "name": {
+              "en": "Kittur Fort — Rani Chennamma's resistance",
+              "kn": "ಕಿತ್ತೂರು ಕೋಟೆ — ರಾಣಿ ಚೆನ್ನಮ್ಮನ ಪ್ರತಿರೋಧ"
+            },
+            "description": {
+              "en": "A historic fort known for the valiant queen Rani Chennamma's resistance against British rule.",
+              "kn": "ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ವಿರುದ್ಧ ಧೀರ ರಾಣಿ ಚೆನ್ನಮ್ಮನ ಪ್ರತಿರೋಧಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ಐತಿಹಾಸಿಕ ಕೋಟೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Kittur+Fort"
+          },
+          {
+            "name": {
+              "en": "Belagavi Fort — Chalukya & Maratha era",
+              "kn": "ಬೆಳಗಾವಿ ಕೋಟೆ — ಚಾಲುಕ್ಯ ಮತ್ತು ಮರಾಠಾ ಯುಗ"
+            },
+            "description": {
+              "en": "Historic fort from the Chalukya and Maratha periods.",
+              "kn": "ಚಾಲುಕ್ಯ ಮತ್ತು ಮರಾಠಾ ಕಾಲದಿಂದ ಐತಿಹಾಸಿಕ ಕೋಟೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Belagavi+Fort"
+          },
+          {
+            "name": {
+              "en": "Savdatti Yellamma Temple — pilgrimage & fairs",
+              "kn": "ಸವದತ್ತಿ ಯಲ್ಲಮ್ಮ ದೇವಾಲಯ — ಯಾತ್ರೆ ಮತ್ತು ಜಾತ್ರೆಗಳು"
+            },
+            "description": {
+              "en": "Famous pilgrimage site and temple known for its fairs and festivals.",
+              "kn": "ಅದರ ಜಾತ್ರೆಗಳು ಮತ್ತು ಉತ್ಸವಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ಪ್ರಸಿದ್ಧ ಯಾತ್ರಾ ಸ್ಥಳ ಮತ್ತು ದೇವಾಲಯ."
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Savdatti+Yellamma+Temple"
+          }
+        ],
+        "cultureFestivals": [
+          {
+            "name": {
+              "en": "Folk arts: Veeragase, Dollu Kunitha, Suggi Kunita",
+              "kn": "ಲೋಕ ಕಲೆಗಳು: ವೀರಗಾಸೆ, ದೊಳ್ಳು ಕುಣಿತ, ಸುಗ್ಗಿ ಕುಣಿತ"
+            },
+            "description": {
+              "en": "Traditional folk arts including Veeragase, Dollu Kunitha, and Suggi Kunita.",
+              "kn": "ವೀರಗಾಸೆ, ದೊಳ್ಳು ಕುಣಿತ ಮತ್ತು ಸುಗ್ಗಿ ಕುಣಿತ ಸೇರಿದಂತೆ ಸಾಂಪ್ರದಾಯಿಕ ಲೋಕ ಕಲೆಗಳು."
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Veeragase"
+          },
+          {
+            "name": {
+              "en": "Festivals: Kittur Utsava, Ugadi, Deepavali",
+              "kn": "ಉತ್ಸವಗಳು: ಕಿತ್ತೂರು ಉತ್ಸವ, ಉಗಾದಿ, ದೀಪಾವಳಿ"
+            },
+            "description": {
+              "en": "Major festivals including Kittur Utsava, Ugadi, and Deepavali.",
+              "kn": "ಕಿತ್ತೂರು ಉತ್ಸವ, ಉಗಾದಿ ಮತ್ತು ದೀಪಾವಳಿ ಸೇರಿದಂತೆ ಪ್ರಮುಖ ಉತ್ಸವಗಳು."
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Kittur+Utsava"
+          }
+        ],
+        "folkDances": [
+          {
+            "name": {
+              "en": "Veeragase",
+              "kn": "ವೀರಗಾಸೆ"
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Veeragase"
+          },
+          {
+            "name": {
+              "en": "Suggi Kunita",
+              "kn": "ಸುಗ್ಗಿ ಕುಣಿತ"
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Suggi+Kunita"
+          },
+          {
+            "name": {
+              "en": "Siddi Dhamal",
+              "kn": "ಸಿದ್ಧಿ ಧಮಾಲ"
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Siddi+Dhamal"
+          }
+        ],
+        "food": [
+          {
+            "name": {
+              "en": "Belagavi Kunda",
+              "kn": "ಬೆಳಗಾವಿ ಕುಂಡ"
+            },
+            "description": {
+              "en": "A sweet delicacy made from milk, sugar, and cardamom. Legend says it was created by accident when a sweet maker's milk got burnt, resulting in this iconic dessert.",
+              "kn": "ಹಾಲು, ಸಕ್ಕರೆ ಮತ್ತು ಏಲಕ್ಕಿಯಿಂದ ಮಾಡಿದ ಸಿಹಿ ಪದಾರ್ಥ. ಒಂದು ಸಿಹಿ ತಯಾರಕನ ಹಾಲು ಸುಟ್ಟುಹೋದಾಗ ಇದು ಆಕಸ್ಮಿಕವಾಗಿ ರಚಿಸಲ್ಪಟ್ಟಿತು ಎಂದು ದಂತಕಥೆ ಹೇಳುತ್ತದೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Belagavi+Kunda"
+          },
+          {
+            "name": {
+              "en": "Mandige",
+              "kn": "ಮಂಡಿಗೆ"
+            },
+            "description": {
+              "en": "Traditional sweet delicacy from Belagavi.",
+              "kn": "ಬೆಳಗಾವಿಯಿಂದ ಸಾಂಪ್ರದಾಯಿಕ ಸಿಹಿ ಪದಾರ್ಥ."
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Mandige"
+          },
+          {
+            "name": {
+              "en": "Jolada Rotti",
+              "kn": "ಜೋಳದ ರೊಟ್ಟಿ"
+            },
+            "description": {
+              "en": "Traditional millet-based flatbread, staple of the region.",
+              "kn": "ಸಾಂಪ್ರದಾಯಿಕ ಜೋಳ ಆಧಾರಿತ ರೊಟ್ಟಿ, ಪ್ರದೇಶದ ಮುಖ್ಯ ಆಹಾರ."
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Jolada+Rotti"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "V. K. Gokak — Poet & scholar",
+              "kn": "ವಿ. ಕೆ. ಗೋಕಾಕ್ — ಕವಿ ಮತ್ತು ವಿದ್ವಾಂಸ"
+            },
+            "description": {
+              "en": "Renowned Kannada poet and scholar.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ ಮತ್ತು ವಿದ್ವಾಂಸ."
+            }
+          },
+          {
+            "name": {
+              "en": "Chandrashekhara Kambar — Poet & playwright",
+              "kn": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ — ಕವಿ ಮತ್ತು ನಾಟಕಕಾರ"
+            },
+            "description": {
+              "en": "Renowned Kannada poet and playwright.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ ಮತ್ತು ನಾಟಕಕಾರ."
+            }
+          }
+        ],
+        "notablePersonalities": [
+          {
+            "name": {
+              "en": "V. K. Gokak — Poet & scholar",
+              "kn": "ವಿ. ಕೆ. ಗೋಕಾಕ್ — ಕವಿ ಮತ್ತು ವಿದ್ವಾಂಸ"
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=V.K.+Gokak"
+          },
+          {
+            "name": {
+              "en": "Chandrashekhara Kambar — Poet & playwright",
+              "kn": "ಚಂದ್ರಶೇಖರ ಕಂಬಾರ — ಕವಿ ಮತ್ತು ನಾಟಕಕಾರ"
+            },
+            "photo": "https://via.placeholder.com/400x300.png?text=Chandrashekhara+Kambar"
+          }
+        ],
+        "agricultureEconomy": [
+          {
+            "name": {
+              "en": "Sugarcane",
+              "kn": "ಕಬ್ಬು"
+            },
+            "description": {
+              "en": "Belagavi is a major sugarcane producing region with numerous sugar factories.",
+              "kn": "ಬೆಳಗಾವಿ ಹಲವಾರು ಸಕ್ಕರೆ ಕಾರ್ಖಾನೆಗಳೊಂದಿಗೆ ಪ್ರಮುಖ ಕಬ್ಬು ಉತ್ಪಾದನಾ ಪ್ರದೇಶವಾಗಿದೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Sugarcane"
+          },
+          {
+            "name": {
+              "en": "Jowar",
+              "kn": "ಜೋಳ"
+            },
+            "description": {
+              "en": "Traditional millet crop widely cultivated in the region.",
+              "kn": "ಪ್ರದೇಶದಲ್ಲಿ ವ್ಯಾಪಕವಾಗಿ ಬೆಳೆಯಲಾಗುವ ಸಾಂಪ್ರದಾಯಿಕ ಜೋಳ ಬೆಳೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Jowar"
+          }
+        ],
+        "industries": [
+          {
+            "name": {
+              "en": "Krishna Sugar Factory",
+              "kn": "ಕೃಷ್ಣ ಸಕ್ಕರೆ ಕಾರ್ಖಾನೆ"
+            },
+            "description": {
+              "en": "One of the major sugar processing units in the region.",
+              "kn": "ಪ್ರದೇಶದ ಪ್ರಮುಖ ಸಕ್ಕರೆ ಸಂಸ್ಕರಣಾ ಘಟಕಗಳಲ್ಲಿ ಒಂದು."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Sugar+Factory"
+          }
+        ],
+        "naturalSanctuaries": [
+          {
+            "name": {
+              "en": "Bhimgad Sanctuary",
+              "kn": "ಭೀಮಗದ ಅಭಯಾರಣ್ಯ"
+            },
+            "description": {
+              "en": "A wildlife sanctuary known for its diverse flora and fauna, including tigers and various bird species.",
+              "kn": "ಬೆಕ್ಕುಗಳು ಮತ್ತು ವಿವಿಧ ಪಕ್ಷಿ ಜಾತಿಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ವೈವಿಧ್ಯಮಯ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಸಂಪತ್ತಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ವನ್ಯಜೀವಿ ಅಭಯಾರಣ್ಯ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Bhimgad+Sanctuary"
+          }
+        ],
+        "touristAttractions": [
+          {
+            "name": {
+              "en": "Belagavi Fort",
+              "kn": "ಬೆಳಗಾವಿ ಕೋಟೆ"
+            },
+            "description": {
+              "en": "A historic fort with beautiful architecture and scenic views.",
+              "kn": "ಸುಂದರ ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಸುಂದರ ನೋಟಗಳೊಂದಿಗೆ ಐತಿಹಾಸಿಕ ಕೋಟೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Belagavi+Fort"
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Dharwad",
+          "kn": "ಧಾರವಾಡ"
+        },
+        "mainPhoto": "assets/images/dharwad -main.jpg",
+        "coordinates": {
+          "lat": 15.4589,
+          "lng": 75.0078
+        },
+        "geography": {
+          "en": "Dharwad is situated in the northwestern part of Karnataka, known as the 'Oxford of Karnataka' due to its educational institutions. The city lies at an elevation of about 750 meters above sea level and covers an area of approximately 4,265 square kilometers. It's characterized by its pleasant climate and red soil.",
+          "kn": "ಧಾರವಾಡವು ಕರ್ನಾಟಕದ ವಾಯುವ್ಯ ಭಾಗದಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ, ಅದರ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳಿಂದಾಗಿ 'ಕರ್ನಾಟಕದ ಆಕ್ಸ್ಫರ್ಡ್' ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ. ನಗರವು ಸಮುದ್ರ ಮಟ್ಟದಿಂದ ಸುಮಾರು 750 ಮೀಟರ್ ಎತ್ತರದಲ್ಲಿದೆ ಮತ್ತು ಸುಮಾರು 4,265 ಚದರ ಕಿಲೋಮೀಟರ್ ಪ್ರದೇಶವನ್ನು ಒಳಗೊಂಡಿದೆ. ಇದು ಅದರ ಆಹ್ಲಾದಕರ ಹವಾಮಾನ ಮತ್ತು ಕೆಂಪು ಮಣ್ಣಿನಿಂದ ನಿರೂಪಿಸಲ್ಪಟ್ಟಿದೆ."
+        },
+        "historicalPlaces": [
+          {
+            "name": {
+              "en": "Dharwad Fort",
+              "kn": "ಧಾರವಾಡ ಕೋಟೆ"
+            },
+            "description": {
+              "en": "Ancient fort with historical significance dating back to the 14th century.",
+              "kn": "14ನೇ ಶತಮಾನಕ್ಕೆ ಹಿಂದಿನ ಐತಿಹಾಸಿಕ ಮಹತ್ವದ ಪ್ರಾಚೀನ ಕೋಟೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Dharwad+Fort"
+          }
+        ],
+        "cultureFestivals": [
+          {
+            "name": {
+              "en": "Hampi Utsav",
+              "kn": "ಹಂಪಿ ಉತ್ಸವ"
+            },
+            "description": {
+              "en": "Cultural festival celebrating the region's rich heritage.",
+              "kn": "ಪ್ರದೇಶದ ಸಮೃದ್ಧ ಆನುವಂಶಿಕತೆಯನ್ನು ಆಚರಿಸುವ ಸಾಂಸ್ಕೃತಿಕ ಉತ್ಸವ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Hampi+Utsav"
+          }
+        ],
+        "food": [
+          {
+            "name": {
+              "en": "Dharwad Peda",
+              "kn": "ಧಾರವಾಡ ಪೇಡಾ"
+            },
+            "description": {
+              "en": "Famous sweet delicacy from Dharwad, made from milk and sugar.",
+              "kn": "ಹಾಲು ಮತ್ತು ಸಕ್ಕರೆಯಿಂದ ಮಾಡಿದ ಧಾರವಾಡದ ಪ್ರಸಿದ್ಧ ಸಿಹಿ ಪದಾರ್ಥ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Dharwad+Peda"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "D.R. Bendre",
+              "kn": "ಡಿ.ಆರ್. ಬೇಂದ್ರೆ"
+            },
+            "description": {
+              "en": "Renowned Kannada poet and Jnanpith awardee, known as 'Naada Kavi' (Poet of the Land).",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತ, 'ನಾಡ ಕವಿ' ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತಾರೆ."
+            }
+          }
+        ],
+        "agricultureEconomy": [
+          {
+            "name": {
+              "en": "Cotton",
+              "kn": "ಹತ್ತಿ"
+            },
+            "description": {
+              "en": "Major cotton producing region with textile industries.",
+              "kn": "ವಸ್ತ್ರೋದ್ಯಮಗಳೊಂದಿಗೆ ಪ್ರಮುಖ ಹತ್ತಿ ಉತ್ಪಾದನಾ ಪ್ರದೇಶ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Cotton"
+          }
+        ],
+        "industries": [
+          {
+            "name": {
+              "en": "Textile Industries",
+              "kn": "ವಸ್ತ್ರೋದ್ಯಮಗಳು"
+            },
+            "description": {
+              "en": "Thriving textile manufacturing sector.",
+              "kn": "ವಿಕಸನಗೊಳ್ಳುತ್ತಿರುವ ವಸ್ತ್ರ ತಯಾರಿಕಾ ಕ್ಷೇತ್ರ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Textile+Industry"
+          }
+        ],
+        "naturalSanctuaries": [],
+        "touristAttractions": [
+          {
+            "name": {
+              "en": "Karnataka University",
+              "kn": "ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ"
+            },
+            "description": {
+              "en": "Prestigious educational institution known for academic excellence.",
+              "kn": "ಶೈಕ್ಷಣಿಕ ಉತ್ಕೃಷ್ಟತೆಗೆ ಹೆಸರುವಾಸಿಯಾದ ಪ್ರತಿಷ್ಠಿತ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Karnataka+University"
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Gadag",
+          "kn": "ಗದಗ"
+        },
+        "mainPhoto": "assets/images/gadag main.jpg",
+        "coordinates": {
+          "lat": 15.4299,
+          "lng": 75.6311
+        },
+        "geography": {
+          "en": "Gadag is located in the northern part of Karnataka, known for its rich cultural heritage and historical significance. The district covers approximately 4,656 square kilometers and is characterized by its semi-arid climate and agricultural landscape.",
+          "kn": "ಗದಗವು ಕರ್ನಾಟಕದ ಉತ್ತರ ಭಾಗದಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ, ಅದರ ಸಮೃದ್ಧ ಸಾಂಸ್ಕೃತಿಕ ಆನುವಂಶಿಕತೆ ಮತ್ತು ಐತಿಹಾಸಿಕ ಮಹತ್ವಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ. ಜಿಲ್ಲೆಯು ಸುಮಾರು 4,656 ಚದರ ಕಿಲೋಮೀಟರ್ ಪ್ರದೇಶವನ್ನು ಒಳಗೊಂಡಿದೆ ಮತ್ತು ಅದರ ಅರೆ-ಶುಷ್ಕ ಹವಾಮಾನ ಮತ್ತು ಕೃಷಿ ಭೂಮಿಯಿಂದ ನಿರೂಪಿಸಲ್ಪಟ್ಟಿದೆ."
+        },
+        "historicalPlaces": [
+          {
+            "name": {
+              "en": "Trikuteshwara Temple",
+              "kn": "ತ್ರಿಕೂಟೇಶ್ವರ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Ancient temple complex with intricate architecture dating back to the Chalukya period.",
+              "kn": "ಚಾಲುಕ್ಯ ಕಾಲದಿಂದ ಹಿಂದಿನ ಸಂಕೀರ್ಣ ವಾಸ್ತುಶಿಲ್ಪದಿಂದ ಕೂಡಿದ ಪ್ರಾಚೀನ ದೇವಾಲಯ ಸಂಕೀರ್ಣ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Trikuteshwara+Temple"
+          }
+        ],
+        "cultureFestivals": [
+          {
+            "name": {
+              "en": "Gadag Utsava",
+              "kn": "ಗದಗ ಉತ್ಸವ"
+            },
+            "description": {
+              "en": "Annual cultural festival celebrating local traditions and arts.",
+              "kn": "ಸ್ಥಳೀಯ ಸಂಪ್ರದಾಯಗಳು ಮತ್ತು ಕಲೆಗಳನ್ನು ಆಚರಿಸುವ ವಾರ್ಷಿಕ ಸಾಂಸ್ಕೃತಿಕ ಉತ್ಸವ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Gadag+Utsava"
+          }
+        ],
+        "food": [
+          {
+            "name": {
+              "en": "Traditional Jowar Roti",
+              "kn": "ಸಾಂಪ್ರದಾಯಿಕ ಜೋಳ ರೊಟ್ಟಿ"
+            },
+            "description": {
+              "en": "Traditional millet-based flatbread, staple of the region.",
+              "kn": "ಸಾಂಪ್ರದಾಯಿಕ ಜೋಳ ಆಧಾರಿತ ರೊಟ್ಟಿ, ಪ್ರದೇಶದ ಮುಖ್ಯ ಆಹಾರ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Jowar+Roti"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "Pandit Puttaraj Gawai",
+              "kn": "ಪಂಡಿತ್ ಪುಟ್ಟರಾಜ ಗವಾಯಿ"
+            },
+            "description": {
+              "en": "Renowned musician and Veena maestro.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಸಂಗೀತಗಾರ ಮತ್ತು ವೀಣಾ ಮಾಸ್ಟ್ರೊ."
+            }
+          }
+        ],
+        "agricultureEconomy": [
+          {
+            "name": {
+              "en": "Jowar and Tur",
+              "kn": "ಜೋಳ ಮತ್ತು ತೊಗರಿ"
+            },
+            "description": {
+              "en": "Primary crops include jowar (sorghum) and tur (pigeon pea).",
+              "kn": "ಪ್ರಾಥಮಿಕ ಬೆಳೆಗಳು ಜೋಳ (ಸೋರ್ಗಮ್) ಮತ್ತು ತೊಗರಿ (ಕಬುತಿ) ಸೇರಿವೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Jowar+and+Tur"
+          }
+        ],
+        "industries": [],
+        "naturalSanctuaries": [],
+        "touristAttractions": [
+          {
+            "name": {
+              "en": "Veeranarayana Temple",
+              "kn": "ವೀರನಾರಾಯಣ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Historic temple with beautiful architecture.",
+              "kn": "ಸುಂದರ ವಾಸ್ತುಶಿಲ್ಪದಿಂದ ಕೂಡಿದ ಐತಿಹಾಸಿಕ ದೇವಾಲಯ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Veeranarayana+Temple"
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Haveri",
+          "kn": "ಹಾವೇರಿ"
+        },
+        "mainPhoto": "assets/images/haveri main.jpg",
+        "coordinates": {
+          "lat": 14.7953,
+          "lng": 75.4040
+        },
+        "geography": {
+          "en": "Haveri is located in the central part of Karnataka, known for its agricultural prosperity and cultural heritage. The district covers approximately 4,823 square kilometers and features a mix of plains and hilly terrain.",
+          "kn": "ಹಾವೇರಿ ಕರ್ನಾಟಕದ ಮಧ್ಯ ಭಾಗದಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ, ಅದರ ಕೃಷಿ ಸಮೃದ್ಧಿ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಆನುವಂಶಿಕತೆಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ. ಜಿಲ್ಲೆಯು ಸುಮಾರು 4,823 ಚದರ ಕಿಲೋಮೀಟರ್ ಪ್ರದೇಶವನ್ನು ಒಳಗೊಂಡಿದೆ ಮತ್ತು ಸಮತಲ ಮತ್ತು ಬೆಟ್ಟದ ಭೂಮಿಯ ಮಿಶ್ರಣವನ್ನು ಹೊಂದಿದೆ."
+        },
+        "historicalPlaces": [
+          {
+            "name": {
+              "en": "Siddheshwara Temple",
+              "kn": "ಸಿದ್ಧೇಶ್ವರ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Ancient temple with intricate carvings and architectural beauty.",
+              "kn": "ಸಂಕೀರ್ಣ ಕೆತ್ತನೆಗಳು ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪದ ಸೌಂದರ್ಯದಿಂದ ಕೂಡಿದ ಪ್ರಾಚೀನ ದೇವಾಲಯ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Siddheshwara+Temple"
+          }
+        ],
+        "cultureFestivals": [
+          {
+            "name": {
+              "en": "Haveri Utsava",
+              "kn": "ಹಾವೇರಿ ಉತ್ಸವ"
+            },
+            "description": {
+              "en": "Cultural festival showcasing local traditions and performing arts.",
+              "kn": "ಸ್ಥಳೀಯ ಸಂಪ್ರದಾಯಗಳು ಮತ್ತು ಪ್ರದರ್ಶನ ಕಲೆಗಳನ್ನು ಪ್ರದರ್ಶಿಸುವ ಸಾಂಸ್ಕೃತಿಕ ಉತ್ಸವ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Haveri+Utsava"
+          }
+        ],
+        "food": [
+          {
+            "name": {
+              "en": "Haveri Special Thali",
+              "kn": "ಹಾವೇರಿ ವಿಶೇಷ ಥಾಲಿ"
+            },
+            "description": {
+              "en": "Traditional meal with various local delicacies.",
+              "kn": "ವಿವಿಧ ಸ್ಥಳೀಯ ಪದಾರ್ಥಗಳೊಂದಿಗೆ ಸಾಂಪ್ರದಾಯಿಕ ಭೋಜನ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Haveri+Thali"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "Shivakumara Swamiji",
+              "kn": "ಶಿವಕುಮಾರ ಸ್ವಾಮಿಜಿ"
+            },
+            "description": {
+              "en": "Spiritual leader and social reformer known for humanitarian work.",
+              "kn": "ಮಾನವೀಯ ಕೆಲಸಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ಆಧ್ಯಾತ್ಮಿಕ ನೇತೃತ್ವ ಮತ್ತು ಸಾಮಾಜಿಕ ಸುಧಾರಕ."
+            }
+          }
+        ],
+        "agricultureEconomy": [
+          {
+            "name": {
+              "en": "Sunflower",
+              "kn": "ಸೂರ್ಯಕಾಂತಿ"
+            },
+            "description": {
+              "en": "Major sunflower cultivation area producing high-quality oil seeds.",
+              "kn": "ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಎಣ್ಣೆ ಬೀಜಗಳನ್ನು ಉತ್ಪಾದಿಸುವ ಪ್ರಮುಖ ಸೂರ್ಯಕಾಂತಿ ಬೆಳೆ ಪ್ರದೇಶ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Sunflower"
+          }
+        ],
+        "industries": [],
+        "naturalSanctuaries": [],
+        "touristAttractions": [
+          {
+            "name": {
+              "en": "Mukteshwara Temple",
+              "kn": "ಮುಕ್ತೇಶ್ವರ ದೇವಾಲಯ"
+            },
+            "description": {
+              "en": "Historic temple with beautiful Chalukyan architecture.",
+              "kn": "ಸುಂದರ ಚಾಲುಕ್ಯ ವಾಸ್ತುಶಿಲ್ಪದಿಂದ ಕೂಡಿದ ಐತಿಹಾಸಿಕ ದೇವಾಲಯ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Mukteshwara+Temple"
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Bagalkote",
+          "kn": "ಬಾಗಲಕೋಟೆ"
+        },
+        "mainPhoto": "assets/images/bagalkot main.jpg",
+        "coordinates": {
+          "lat": 16.1850,
+          "lng": 75.7000
+        },
+        "geography": {
+          "en": "Bagalkote is located in the northern part of Karnataka, known for its proximity to the UNESCO World Heritage site of Pattadakal. The district covers approximately 6,575 square kilometers and is characterized by the Krishna and Ghataprabha rivers flowing through it.",
+          "kn": "ಬಾಗಲಕೋಟೆ ಕರ್ನಾಟಕದ ಉತ್ತರ ಭಾಗದಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ, ಪಟ್ಟದಕಲ್ಲಿನ ಯುನೆಸ್ಕೊ ವಿಶ್ವ ಪರಂಪರೆಯ ಸ್ಥಳಕ್ಕೆ ಸಮೀಪಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ. ಜಿಲ್ಲೆಯು ಸುಮಾರು 6,575 ಚದರ ಕಿಲೋಮೀಟರ್ ಪ್ರದೇಶವನ್ನು ಒಳಗೊಂಡಿದೆ ಮತ್ತು ಅದರ ಮೂಲಕ ಹರಿಯುವ ಕೃಷ್ಣ ಮತ್ತು ಘಟಪ್ರಭಾ ನದಿಗಳಿಂದ ನಿರೂಪಿಸಲ್ಪಟ್ಟಿದೆ."
+        },
+        "historicalPlaces": [
+          {
+            "name": {
+              "en": "Pattadakal",
+              "kn": "ಪಟ್ಟದಕಲ್ಲು"
+            },
+            "description": {
+              "en": "UNESCO World Heritage site with magnificent Chalukyan temples and architecture.",
+              "kn": "ಭವ್ಯವಾದ ಚಾಲುಕ್ಯ ದೇವಾಲಯಗಳು ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪದಿಂದ ಕೂಡಿದ ಯುನೆಸ್ಕೊ ವಿಶ್ವ ಪರಂಪರೆಯ ಸ್ಥಳ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Pattadakal"
+          },
+          {
+            "name": {
+              "en": "Aihole",
+              "kn": "ಐಹೊಳೆ"
+            },
+            "description": {
+              "en": "Known as the 'Cradle of Indian Architecture' with over 125 temples.",
+              "kn": "125ಕ್ಕೂ ಹೆಚ್ಚು ದೇವಾಲಯಗಳೊಂದಿಗೆ 'ಭಾರತೀಯ ವಾಸ್ತುಶಿಲ್ಪದ ಜನನಸ್ಥಳ' ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತದೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Aihole"
+          }
+        ],
+        "cultureFestivals": [
+          {
+            "name": {
+              "en": "Pattadakal Dance Festival",
+              "kn": "ಪಟ್ಟದಕಲ್ಲು ನೃತ್ಯ ಉತ್ಸವ"
+            },
+            "description": {
+              "en": "Annual dance festival celebrating classical Indian dance forms at the historic site.",
+              "kn": "ಐತಿಹಾಸಿಕ ಸ್ಥಳದಲ್ಲಿ ಶಾಸ್ತ್ರೀಯ ಭಾರತೀಯ ನೃತ್ಯ ರೂಪಗಳನ್ನು ಆಚರಿಸುವ ವಾರ್ಷಿಕ ನೃತ್ಯ ಉತ್ಸವ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Pattadakal+Dance"
+          }
+        ],
+        "food": [
+          {
+            "name": {
+              "en": "Local Specialties",
+              "kn": "ಸ್ಥಳೀಯ ವಿಶೇಷತೆಗಳು"
+            },
+            "description": {
+              "en": "Traditional North Karnataka cuisine with jowar roti and various curries.",
+              "kn": "ಜೋಳ ರೊಟ್ಟಿ ಮತ್ತು ವಿವಿಧ ಕರಿಗಳೊಂದಿಗೆ ಸಾಂಪ್ರದಾಯಿಕ ಉತ್ತರ ಕರ್ನಾಟಕ ಪಾಕಶೈಲಿ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Local+Food"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "Ravi Shastri",
+              "kn": "ರವಿ ಶಾಸ್ತ್ರಿ"
+            },
+            "description": {
+              "en": "Former Indian cricketer and coach, hailing from Bagalkote.",
+              "kn": "ಬಾಗಲಕೋಟೆಯಿಂದ ಬಂದ ಮಾಜಿ ಭಾರತೀಯ ಕ್ರಿಕೆಟಿಗ ಮತ್ತು ತರಬೇತುದಾರ."
+            }
+          }
+        ],
+        "agricultureEconomy": [
+          {
+            "name": {
+              "en": "Cotton and Sugarcane",
+              "kn": "ಹತ್ತಿ ಮತ್ತು ಕಬ್ಬು"
+            },
+            "description": {
+              "en": "Major agricultural products include cotton and sugarcane.",
+              "kn": "ಪ್ರಮುಖ ಕೃಷಿ ಉತ್ಪನ್ನಗಳು ಹತ್ತಿ ಮತ್ತು ಕಬ್ಬು ಸೇರಿವೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Cotton+Sugarcane"
+          }
+        ],
+        "industries": [],
+        "naturalSanctuaries": [],
+        "touristAttractions": [
+          {
+            "name": {
+              "en": "Badami Caves",
+              "kn": "ಬಾದಾಮಿ ಗುಹೆಗಳು"
+            },
+            "description": {
+              "en": "Ancient rock-cut cave temples with beautiful carvings dating back to the 6th century.",
+              "kn": "6ನೇ ಶತಮಾನಕ್ಕೆ ಹಿಂದಿನ ಸುಂದರ ಕೆತ್ತನೆಗಳೊಂದಿಗೆ ಪ್ರಾಚೀನ ಬಂಡೆ ಕತ್ತರಿಸಿದ ಗುಹಾ ದೇವಾಲಯಗಳು."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Badami+Caves"
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Vijayapura",
+          "kn": "ವಿಜಯಪುರ"
+        },
+        "mainPhoto": "assets/images/bijagur main.jpg",
+        "coordinates": {
+          "lat": 16.8244,
+          "lng": 75.7154
+        },
+        "geography": {
+          "en": "Vijayapura, formerly known as Bijapur, is located in the northern part of Karnataka. The city is famous for its historical monuments, particularly from the Adil Shahi dynasty. The district covers approximately 10,494 square kilometers and features a semi-arid climate.",
+          "kn": "ವಿಜಯಪುರ, ಹಿಂದೆ ಬಿಜಾಪುರ ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತಿತ್ತು, ಕರ್ನಾಟಕದ ಉತ್ತರ ಭಾಗದಲ್ಲಿ ನೆಲೆಗೊಂಡಿದೆ. ನಗರವು ಅದರ ಐತಿಹಾಸಿಕ ಸ್ಮಾರಕಗಳಿಗೆ, ವಿಶೇಷವಾಗಿ ಆದಿಲ್ ಶಾಹಿ ರಾಜವಂಶದಿಂದ ಪ್ರಸಿದ್ಧವಾಗಿದೆ. ಜಿಲ್ಲೆಯು ಸುಮಾರು 10,494 ಚದರ ಕಿಲೋಮೀಟರ್ ಪ್ರದೇಶವನ್ನು ಒಳಗೊಂಡಿದೆ ಮತ್ತು ಅರೆ-ಶುಷ್ಕ ಹವಾಮಾನವನ್ನು ಹೊಂದಿದೆ."
+        },
+        "historicalPlaces": [
+          {
+            "name": {
+              "en": "Gol Gumbaz",
+              "kn": "ಗೋಲ್ ಗುಂಬಜ್"
+            },
+            "description": {
+              "en": "Famous mausoleum with the world's second-largest dome and whispering gallery.",
+              "kn": "ವಿಶ್ವದ ಎರಡನೇ ಅತಿದೊಡ್ಡ ಗುಂಬಜ್ ಮತ್ತು ವಿಸ್ಪರಿಂಗ್ ಗ್ಯಾಲರಿಯೊಂದಿಗೆ ಪ್ರಸಿದ್ಧ ಸಮಾಧಿ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Gol+Gumbaz"
+          },
+          {
+            "name": {
+              "en": "Ibrahim Rauza",
+              "kn": "ಇಬ್ರಾಹಿಂ ರೌಜಾ"
+            },
+            "description": {
+              "en": "Beautiful mausoleum complex known as the 'Taj Mahal of the Deccan'.",
+              "kn": "'ದಕ್ಕನ್ ತಾಜ್ ಮಹಲ್' ಎಂದು ಕರೆಯಲ್ಪಡುವ ಸುಂದರ ಸಮಾಧಿ ಸಂಕೀರ್ಣ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Ibrahim+Rauza"
+          }
+        ],
+        "cultureFestivals": [
+          {
+            "name": {
+              "en": "Navroz Festival",
+              "kn": "ನವರೋಜ್ ಉತ್ಸವ"
+            },
+            "description": {
+              "en": "Cultural festival celebrating the Persian New Year and local traditions.",
+              "kn": "ಪರ್ಷಿಯನ್ ಹೊಸ ವರ್ಷ ಮತ್ತು ಸ್ಥಳೀಯ ಸಂಪ್ರದಾಯಗಳನ್ನು ಆಚರಿಸುವ ಸಾಂಸ್ಕೃತಿಕ ಉತ್ಸವ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Navroz+Festival"
+          }
+        ],
+        "food": [
+          {
+            "name": {
+              "en": "Vijayapura Biryani",
+              "kn": "ವಿಜಯಪುರ ಬಿರಿಯಾನಿ"
+            },
+            "description": {
+              "en": "Famous aromatic biryani with unique local spices and flavors.",
+              "kn": "ಅನನ್ಯ ಸ್ಥಳೀಯ ಮಸಾಲೆಗಳು ಮತ್ತು ರುಚಿಗಳೊಂದಿಗೆ ಪ್ರಸಿದ್ಧ ಸುಗಂಧಿತ ಬಿರಿಯಾನಿ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Vijayapura+Biryani"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "Dr. D. R. Bendre",
+              "kn": "ಡಾ. ಡಿ. ಆರ್. ಬೇಂದ್ರೆ"
+            },
+            "description": {
+              "en": "Renowned Kannada poet and Jnanpith awardee.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಕವಿ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತ."
+            }
+          }
+        ],
+        "agricultureEconomy": [
+          {
+            "name": {
+              "en": "Sugarcane and Grapes",
+              "kn": "ಕಬ್ಬು ಮತ್ತು ದ್ರಾಕ್ಷಿ"
+            },
+            "description": {
+              "en": "Major crops include sugarcane and grapes, with several wineries in the region.",
+              "kn": "ಪ್ರಮುಖ ಬೆಳೆಗಳು ಕಬ್ಬು ಮತ್ತು ದ್ರಾಕ್ಷಿ ಸೇರಿವೆ, ಪ್ರದೇಶದಲ್ಲಿ ಹಲವಾರು ವೈನರಿಗಳಿವೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Grapes"
+          }
+        ],
+        "industries": [
+          {
+            "name": {
+              "en": "Wine Industry",
+              "kn": "ವೈನ್ ಉದ್ಯಮ"
+            },
+            "description": {
+              "en": "Growing wine production industry.",
+              "kn": "ಬೆಳೆಯುತ್ತಿರುವ ವೈನ್ ಉತ್ಪಾದನಾ ಉದ್ಯಮ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Wine+Industry"
+          }
+        ],
+        "naturalSanctuaries": [],
+        "touristAttractions": [
+          {
+            "name": {
+              "en": "Bijapur Fort",
+              "kn": "ಬಿಜಾಪುರ ಕೋಟೆ"
+            },
+            "description": {
+              "en": "Historic fort with impressive architecture and monuments.",
+              "kn": "ಭಾರಿ ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಸ್ಮಾರಕಗಳೊಂದಿಗೆ ಐತಿಹಾಸಿಕ ಕೋಟೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Bijapur+Fort"
+          }
+        ]
+      },
+      {
+        "name": {
+          "en": "Uttara Kannada",
+          "kn": "ಉತ್ತರ ಕನ್ನಡ"
+        },
+        "mainPhoto": "assets/images/uttarkannada main.jpg",
+        "coordinates": {
+          "lat": 14.7909,
+          "lng": 74.1260
+        },
+        "geography": {
+          "en": "Uttara Kannada, also known as North Kannada, is a coastal district in Karnataka known for its beautiful beaches, dense forests, and the Western Ghats. The district covers approximately 10,291 square kilometers and features a tropical climate with high rainfall.",
+          "kn": "ಉತ್ತರ ಕನ್ನಡ, ನಾರ್ತ್ ಕನ್ನಡ ಎಂದೂ ಕರೆಯಲ್ಪಡುತ್ತದೆ, ಕರ್ನಾಟಕದ ಕರಾವಳಿ ಜಿಲ್ಲೆಯಾಗಿದೆ, ಅದರ ಸುಂದರ ಬೀಚ್ಗಳು, ದಟ್ಟ ಕಾಡುಗಳು ಮತ್ತು ಪಶ್ಚಿಮ ಘಟ್ಟಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ. ಜಿಲ್ಲೆಯು ಸುಮಾರು 10,291 ಚದರ ಕಿಲೋಮೀಟರ್ ಪ್ರದೇಶವನ್ನು ಒಳಗೊಂಡಿದೆ ಮತ್ತು ಹೆಚ್ಚಿನ ಮಳೆಯೊಂದಿಗೆ ಉಷ್ಣವಲಯದ ಹವಾಮಾನವನ್ನು ಹೊಂದಿದೆ."
+        },
+        "historicalPlaces": [
+          {
+            "name": {
+              "en": "Mirjan Fort",
+              "kn": "ಮಿರ್ಜನ್ ಕೋಟೆ"
+            },
+            "description": {
+              "en": "Historic fort known for its role in the spice trade and pepper production.",
+              "kn": "ಮಸಾಲೆ ವ್ಯಾಪಾರ ಮತ್ತು ಮೆಣಸು ಉತ್ಪಾದನೆಯಲ್ಲಿ ತನ್ನ ಪಾತ್ರಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ಐತಿಹಾಸಿಕ ಕೋಟೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Mirjan+Fort"
+          }
+        ],
+        "cultureFestivals": [
+          {
+            "name": {
+              "en": "Karavali Utsav",
+              "kn": "ಕರಾವಳಿ ಉತ್ಸವ"
+            },
+            "description": {
+              "en": "Coastal festival celebrating the region's unique culture and traditions.",
+              "kn": "ಪ್ರದೇಶದ ಅನನ್ಯ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸಂಪ್ರದಾಯಗಳನ್ನು ಆಚರಿಸುವ ಕರಾವಳಿ ಉತ್ಸವ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Karavali+Utsav"
+          }
+        ],
+        "food": [
+          {
+            "name": {
+              "en": "Kane Fish Curry",
+              "kn": "ಕಾನೆ ಮೀನು ಕರಿ"
+            },
+            "description": {
+              "en": "Traditional coastal fish curry, a specialty of the region.",
+              "kn": "ಸಾಂಪ್ರದಾಯಿಕ ಕರಾವಳಿ ಮೀನು ಕರಿ, ಪ್ರದೇಶದ ವಿಶೇಷತೆ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Kane+Fish+Curry"
+          },
+          {
+            "name": {
+              "en": "Neer Dosa",
+              "kn": "ನೀರು ದೋಸೆ"
+            },
+            "description": {
+              "en": "Light and fluffy rice crepes, a coastal delicacy.",
+              "kn": "ಹಗುರ ಮತ್ತು ಮೃದುವಾದ ಅಕ್ಕಿ ಕ್ರೆಪ್ಗಳು, ಕರಾವಳಿ ಪದಾರ್ಥ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Neer+Dosa"
+          }
+        ],
+        "notablePeople": [
+          {
+            "name": {
+              "en": "Dr. Shivarama Karanth",
+              "kn": "ಡಾ. ಶಿವರಾಮ ಕಾರಂತ"
+            },
+            "description": {
+              "en": "Renowned Kannada writer, environmentalist, and Jnanpith awardee.",
+              "kn": "ಪ್ರಸಿದ್ಧ ಕನ್ನಡ ಲೇಖಕ, ಪರಿಸರವಾದಿ ಮತ್ತು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತ."
+            }
+          }
+        ],
+        "agricultureEconomy": [
+          {
+            "name": {
+              "en": "Coconut and Areca Nut",
+              "kn": "ತೆಂಗು ಮತ್ತು ಅಡಿಕೆ"
+            },
+            "description": {
+              "en": "Coastal region known for coconut and areca nut plantations.",
+              "kn": "ತೆಂಗು ಮತ್ತು ಅಡಿಕೆ ತೋಟಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ಕರಾವಳಿ ಪ್ರದೇಶ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Coconut+Areca"
+          }
+        ],
+        "industries": [
+          {
+            "name": {
+              "en": "Power Generation",
+              "kn": "ವಿದ್ಯುತ್ ಉತ್ಪಾದನೆ"
+            },
+            "description": {
+              "en": "Hydroelectric power projects in the Western Ghats.",
+              "kn": "ಪಶ್ಚಿಮ ಘಟ್ಟಗಳಲ್ಲಿ ಜಲವಿದ್ಯುತ್ ಶಕ್ತಿ ಯೋಜನೆಗಳು."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Hydroelectric"
+          }
+        ],
+        "naturalSanctuaries": [
+          {
+            "name": {
+              "en": "Dandeli Wildlife Sanctuary",
+              "kn": "ದಾಂಡೇಲಿ ವನ್ಯಜೀವಿ ಅಭಯಾರಣ್ಯ"
+            },
+            "description": {
+              "en": "Famous wildlife sanctuary known for tigers, elephants, and various bird species.",
+              "kn": "ಬೆಕ್ಕುಗಳು, ಆನೆಗಳು ಮತ್ತು ವಿವಿಧ ಪಕ್ಷಿ ಜಾತಿಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ಪ್ರಸಿದ್ಧ ವನ್ಯಜೀವಿ ಅಭಯಾರಣ್ಯ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Dandeli+Sanctuary"
+          },
+          {
+            "name": {
+              "en": "Anshi National Park",
+              "kn": "ಅಂಶಿ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನ"
+            },
+            "description": {
+              "en": "National park part of the Western Ghats biodiversity hotspot.",
+              "kn": "ಪಶ್ಚಿಮ ಘಟ್ಟಗಳ ಜೀವವೈವಿಧ್ಯ ಹಾಟ್ಸ್ಪಾಟ್ನ ಭಾಗವಾದ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Anshi+National+Park"
+          }
+        ],
+        "touristAttractions": [
+          {
+            "name": {
+              "en": "Gokarna Beach",
+              "kn": "ಗೋಕರ್ಣ ಬೀಚ್"
+            },
+            "description": {
+              "en": "Famous beach town known for its pristine beaches and spiritual significance.",
+              "kn": "ಅದರ ನಿಸರ್ಗದ ಕಡಲತೀರಗಳು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಮಹತ್ವಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ಪ್ರಸಿದ್ಧ ಬೀಚ್ ನಗರ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Gokarna+Beach"
+          },
+          {
+            "name": {
+              "en": "Jog Falls",
+              "kn": "ಜೋಗ್ ಜಲಪಾತ"
+            },
+            "description": {
+              "en": "One of India's highest waterfalls, a magnificent natural wonder.",
+              "kn": "ಭಾರತದ ಅತ್ಯಧಿಕ ಜಲಪಾತಗಳಲ್ಲಿ ಒಂದು, ಭವ್ಯವಾದ ನೈಸರ್ಗಿಕ ಅದ್ಭುತ."
+            },
+            "photo": "https://via.placeholder.com/400x300?text=Jog+Falls"
+          }
+        ]
+      }
+    ]
+  }
+}
+

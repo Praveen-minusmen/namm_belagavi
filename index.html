@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Belagavi Division - Where Geography Breathes, History Speaks, and Culture Dances. Explore the rich heritage of 7 districts in Northern Karnataka.">
+    <title>Belagavi Division - Bilingual Information & Cultural Website</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <h1 data-en="Belagavi Division" data-kn="ಬೆಳಗಾವಿ ವಿಭಾಗ">Belagavi Division</h1>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" data-en="Home" data-kn="ಮುಖಪುಟ">Home</a></li>
+                <li><a href="about.html" data-en="About" data-kn="ನಮ್ಮ ಬಗ್ಗೆ">About</a></li>
+                <li><a href="gallery.html" data-en="Gallery" data-kn="ಗ್ಯಾಲರಿ">Gallery</a></li>
+                <li><a href="#download" data-en="Downloads" data-kn="ಡೌನ್ಲೋಡ್ಗಳು">Downloads</a></li>
+            </ul>
+            <div class="language-toggle">
+                <button class="lang-btn active" data-lang="en">EN</button>
+                <button class="lang-btn" data-lang="kn">ಕನ್ನಡ</button>
+            </div>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h2 class="tagline" data-en="Belagavi Division — Where Geography Breathes, History Speaks, and Culture Dances." data-kn="ಬೆಳಗಾವಿ ವಿಭಾಗ — ಭೂಗೋಳವು ಉಸಿರಾಡುವ, ಇತಿಹಾಸವು ಮಾತನಾಡುವ ಮತ್ತು ಸಂಸ್ಕೃತಿಯು ನೃತ್ಯ ಮಾಡುವ ಸ್ಥಳ.">
+                    Belagavi Division — Where Geography Breathes, History Speaks, and Culture Dances.
+                </h2>
+                <p class="hero-subtitle" data-en="Explore the rich heritage, culture, and beauty of 7 districts in Northern Karnataka" data-kn="ಉತ್ತರ ಕರ್ನಾಟಕದ 7 ಜಿಲ್ಲೆಗಳ ಸಮೃದ್ಧ ಆನುವಂಶಿಕತೆ, ಸಂಸ್ಕೃತಿ ಮತ್ತು ಸೌಂದರ್ಯವನ್ನು ಅನ್ವೇಷಿಸಿ">
+                    Explore the rich heritage, culture, and beauty of 7 districts in Northern Karnataka
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Interactive Map Section -->
+    <section class="map-section">
+        <div class="container">
+            <h2 class="section-title" data-en="Explore the Division" data-kn="ವಿಭಾಗವನ್ನು ಅನ್ವೇಷಿಸಿ">Explore the Division</h2>
+            <div id="map"></div>
+        </div>
+    </section>
+
+    <!-- Search Section -->
+    <section class="search-section">
+        <div class="container">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search districts..." data-en-placeholder="Search districts..." data-kn-placeholder="ಜಿಲ್ಲೆಗಳನ್ನು ಹುಡುಕಿ...">
+                <button id="searchBtn" data-en="Search" data-kn="ಹುಡುಕಿ">Search</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Districts Grid -->
+    <section class="districts-section">
+        <div class="container">
+            <h2 class="section-title" data-en="Districts of Belagavi Division" data-kn="ಬೆಳಗಾವಿ ವಿಭಾಗದ ಜಿಲ್ಲೆಗಳು">Districts of Belagavi Division</h2>
+            <div class="districts-grid" id="districtsGrid">
+                <!-- Districts will be loaded dynamically via JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Posters Section -->
+    <section class="posters-section">
+        <div class="container">
+            <h2 class="section-title" data-en="Cultural Posters" data-kn="ಸಾಂಸ್ಕೃತಿಕ ಪೋಸ್ಟರ್‌ಗಳು">Cultural Posters</h2>
+            <p class="section-subtitle" data-en="Explore the vibrant cultural heritage through our collection of posters" data-kn="ನಮ್ಮ ಪೋಸ್ಟರ್‌ಗಳ ಸಂಗ್ರಹದ ಮೂಲಕ ಜೀವಂತ ಸಾಂಸ್ಕೃತಿಕ ಆನುವಂಶಿಕತೆಯನ್ನು ಅನ್ವೇಷಿಸಿ">
+                Explore the vibrant cultural heritage through our collection of posters
+            </p>
+            <div class="posters-grid" id="postersGrid">
+                <!-- Posters will be loaded dynamically via JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Download Section -->
+    <section class="download-section" id="download">
+        <div class="container">
+            <h2 class="section-title" data-en="Downloads" data-kn="ಡೌನ್ಲೋಡ್ಗಳು">Downloads</h2>
+            <div class="download-grid">
+                <div class="download-card">
+                    <h3 data-en="Data JSON" data-kn="ಡೇಟಾ JSON">Data JSON</h3>
+                    <p data-en="Download complete district data in JSON format" data-kn="JSON ಸ್ವರೂಪದಲ್ಲಿ ಸಂಪೂರ್ಣ ಜಿಲ್ಲಾ ಡೇಟಾವನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಿ">
+                        Download complete district data in JSON format
+                    </p>
+                    <button class="download-btn" id="downloadJson" data-en="Download JSON" data-kn="JSON ಡೌನ್ಲೋಡ್ ಮಾಡಿ">Download JSON</button>
+                </div>
+                <div class="download-card">
+                    <h3 data-en="Bilingual PDF" data-kn="ದ್ವಿಭಾಷಾ PDF">Bilingual PDF</h3>
+                    <p data-en="Download comprehensive guide in PDF format (English + Kannada)" data-kn="PDF ಸ್ವರೂಪದಲ್ಲಿ ಸಮಗ್ರ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಡೌನ್ಲೋಡ್ ಮಾಡಿ (ಇಂಗ್ಲಿಷ್ + ಕನ್ನಡ)">
+                        Download comprehensive guide in PDF format (English + Kannada)
+                    </p>
+                    <button class="download-btn" id="downloadPdf" data-en="Download PDF" data-kn="PDF ಡೌನ್ಲೋಡ್ ಮಾಡಿ">Download PDF</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 data-en="Belagavi Division" data-kn="ಬೆಳಗಾವಿ ವಿಭಾಗ">Belagavi Division</h3>
+                    <p data-en="Preserving Karnataka's regional pride and providing accessible information for students, travelers, and cultural enthusiasts." data-kn="ಕರ್ನಾಟಕದ ಪ್ರಾದೇಶಿಕ ಹೆಮ್ಮೆಯನ್ನು ಸಂರಕ್ಷಿಸುವುದು ಮತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳು, ಪ್ರಯಾಣಿಕರು ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಉತ್ಸಾಹಿಗಳಿಗೆ ಪ್ರವೇಶಿಸಬಹುದಾದ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸುವುದು.">
+                        Preserving Karnataka's regional pride and providing accessible information for students, travelers, and cultural enthusiasts.
+                    </p>
+                </div>
+                <div class="footer-section">
+                    <h3 data-en="Quick Links" data-kn="ತ್ವರಿತ ಲಿಂಕ್ಗಳು">Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html" data-en="Home" data-kn="ಮುಖಪುಟ">Home</a></li>
+                        <li><a href="about.html" data-en="About" data-kn="ನಮ್ಮ ಬಗ್ಗೆ">About</a></li>
+                        <li><a href="gallery.html" data-en="Gallery" data-kn="ಗ್ಯಾಲರಿ">Gallery</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3 data-en="Contact" data-kn="ಸಂಪರ್ಕ">Contact</h3>
+                    <p data-en="For inquiries and contributions" data-kn="ಪ್ರಶ್ನೆಗಳು ಮತ್ತು ಕೊಡುಗೆಗಳಿಗಾಗಿ">
+                        For inquiries and contributions
+                    </p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Belagavi Division. <span data-en="All rights reserved." data-kn="ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.">All rights reserved.</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- Custom JavaScript -->
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
+

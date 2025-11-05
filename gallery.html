@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Media Gallery - Belagavi Division">
+    <title>Gallery - Belagavi Division</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html">
+                    <h1 data-en="Belagavi Division" data-kn="ಬೆಳಗಾವಿ ವಿಭಾಗ">Belagavi Division</h1>
+                </a>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" data-en="Home" data-kn="ಮುಖಪುಟ">Home</a></li>
+                <li><a href="about.html" data-en="About" data-kn="ನಮ್ಮ ಬಗ್ಗೆ">About</a></li>
+                <li><a href="gallery.html" data-en="Gallery" data-kn="ಗ್ಯಾಲರಿ">Gallery</a></li>
+                <li><a href="index.html#download" data-en="Downloads" data-kn="ಡೌನ್ಲೋಡ್ಗಳು">Downloads</a></li>
+            </ul>
+            <div class="language-toggle">
+                <button class="lang-btn active" data-lang="en">EN</button>
+                <button class="lang-btn" data-lang="kn">ಕನ್ನಡ</button>
+            </div>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Gallery Section -->
+    <section class="gallery-section">
+        <div class="container">
+            <h1 class="page-title" data-en="Media Gallery" data-kn="ಮೀಡಿಯಾ ಗ್ಯಾಲರಿ">Media Gallery</h1>
+            <p class="gallery-subtitle" data-en="Explore photos and media from all districts" data-kn="ಎಲ್ಲಾ ಜಿಲ್ಲೆಗಳಿಂದ ಫೋಟೋಗಳು ಮತ್ತು ಮೀಡಿಯಾವನ್ನು ಅನ್ವೇಷಿಸಿ">
+                Explore photos and media from all districts
+            </p>
+
+            <!-- District Filter -->
+            <div class="gallery-filters">
+                <button class="filter-btn active" data-district="all" data-en="All Districts" data-kn="ಎಲ್ಲಾ ಜಿಲ್ಲೆಗಳು">All Districts</button>
+                <!-- Filter buttons will be added dynamically -->
+            </div>
+
+            <!-- Gallery Grid -->
+            <div class="gallery-grid" id="galleryGrid">
+                <!-- Gallery items will be loaded dynamically -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Modal for Image View -->
+    <div class="modal" id="imageModal">
+        <span class="close-modal">&times;</span>
+        <img class="modal-content" id="modalImage">
+        <div class="modal-caption" id="modalCaption"></div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 data-en="Belagavi Division" data-kn="ಬೆಳಗಾವಿ ವಿಭಾಗ">Belagavi Division</h3>
+                    <p data-en="Preserving Karnataka's regional pride and providing accessible information." data-kn="ಕರ್ನಾಟಕದ ಪ್ರಾದೇಶಿಕ ಹೆಮ್ಮೆಯನ್ನು ಸಂರಕ್ಷಿಸುವುದು ಮತ್ತು ಪ್ರವೇಶಿಸಬಹುದಾದ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸುವುದು.">
+                        Preserving Karnataka's regional pride and providing accessible information.
+                    </p>
+                </div>
+                <div class="footer-section">
+                    <h3 data-en="Quick Links" data-kn="ತ್ವರಿತ ಲಿಂಕ್ಗಳು">Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html" data-en="Home" data-kn="ಮುಖಪುಟ">Home</a></li>
+                        <li><a href="about.html" data-en="About" data-kn="ನಮ್ಮ ಬಗ್ಗೆ">About</a></li>
+                        <li><a href="gallery.html" data-en="Gallery" data-kn="ಗ್ಯಾಲರಿ">Gallery</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Belagavi Division. <span data-en="All rights reserved." data-kn="ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.">All rights reserved.</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom JavaScript -->
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/gallery.js"></script>
+</body>
+</html>
+

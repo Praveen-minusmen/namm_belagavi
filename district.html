@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore detailed information about districts in Belagavi Division">
+    <title id="pageTitle">District - Belagavi Division</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html">
+                    <h1 data-en="Belagavi Division" data-kn="ಬೆಳಗಾವಿ ವಿಭಾಗ">Belagavi Division</h1>
+                </a>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="index.html" data-en="Home" data-kn="ಮುಖಪುಟ">Home</a></li>
+                <li><a href="about.html" data-en="About" data-kn="ನಮ್ಮ ಬಗ್ಗೆ">About</a></li>
+                <li><a href="gallery.html" data-en="Gallery" data-kn="ಗ್ಯಾಲರಿ">Gallery</a></li>
+                <li><a href="index.html#download" data-en="Downloads" data-kn="ಡೌನ್ಲೋಡ್ಗಳು">Downloads</a></li>
+            </ul>
+            <div class="language-toggle">
+                <button class="lang-btn active" data-lang="en">EN</button>
+                <button class="lang-btn" data-lang="kn">ಕನ್ನಡ</button>
+            </div>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- District Header -->
+    <section class="district-header">
+        <div class="container">
+            <div class="breadcrumb">
+                <a href="index.html" data-en="Home" data-kn="ಮುಖಪುಟ">Home</a>
+                <span>/</span>
+                <span id="districtBreadcrumb" data-en="District" data-kn="ಜಿಲ್ಲೆ">District</span>
+            </div>
+            <h1 class="district-name" id="districtName">District Name</h1>
+        </div>
+    </section>
+
+    <!-- District Tabs -->
+    <section class="district-tabs">
+        <div class="container">
+            <div class="tabs">
+                <button class="tab-btn active" data-tab="overview" data-en="Overview" data-kn="ವಿಹಂಗಾವಲೋಕನ">Overview</button>
+                <button class="tab-btn" data-tab="places" data-en="Historical Places" data-kn="ಐತಿಹಾಸಿಕ ಸ್ಥಳಗಳು">Historical Places</button>
+                <button class="tab-btn" data-tab="culture" data-en="Culture & Festivals" data-kn="ಸಂಸ್ಕೃತಿ ಮತ್ತು ಉತ್ಸವಗಳು">Culture & Festivals</button>
+                <button class="tab-btn" data-tab="food" data-en="Food" data-kn="ಆಹಾರ">Food</button>
+                <button class="tab-btn" data-tab="agriculture" data-en="Agriculture" data-kn="ಕೃಷಿ">Agriculture</button>
+                <button class="tab-btn" data-tab="industries" data-en="Industries" data-kn="ಉದ್ಯಮಗಳು">Industries</button>
+                <button class="tab-btn" data-tab="sanctuaries" data-en="Sanctuaries" data-kn="ಅಭಯಾರಣ್ಯಗಳು">Sanctuaries</button>
+                <button class="tab-btn" data-tab="tourism" data-en="Tourism" data-kn="ಪ್ರವಾಸೋದ್ಯಮ">Tourism</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- District Content -->
+    <section class="district-content">
+        <div class="container">
+            <!-- Overview Tab -->
+            <div class="tab-content active" id="overview">
+                <div class="content-section">
+                    <h2 data-en="Geography" data-kn="ಭೂಗೋಳ">Geography</h2>
+                    <p id="geographyText" class="content-text"></p>
+                </div>
+                <div class="content-section">
+                    <h2 data-en="Notable People" data-kn="ಗಣ್ಯ ವ್ಯಕ್ತಿಗಳು">Notable People</h2>
+                    <div class="notable-people" id="notablePeople">
+                        <!-- Dynamic content -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Historical Places Tab -->
+            <div class="tab-content" id="places">
+                <div class="content-grid" id="historicalPlaces">
+                    <!-- Dynamic content -->
+                </div>
+            </div>
+
+            <!-- Culture & Festivals Tab -->
+            <div class="tab-content" id="culture">
+                <div class="content-grid" id="cultureFestivals">
+                    <!-- Dynamic content -->
+                </div>
+            </div>
+
+            <!-- Food Tab -->
+            <div class="tab-content" id="food">
+                <div class="content-grid" id="foodItems">
+                    <!-- Dynamic content -->
+                </div>
+            </div>
+
+            <!-- Agriculture Tab -->
+            <div class="tab-content" id="agriculture">
+                <div class="content-grid" id="agricultureItems">
+                    <!-- Dynamic content -->
+                </div>
+            </div>
+
+            <!-- Industries Tab -->
+            <div class="tab-content" id="industries">
+                <div class="content-grid" id="industriesList">
+                    <!-- Dynamic content -->
+                </div>
+            </div>
+
+            <!-- Sanctuaries Tab -->
+            <div class="tab-content" id="sanctuaries">
+                <div class="content-grid" id="sanctuariesList">
+                    <!-- Dynamic content -->
+                </div>
+            </div>
+
+            <!-- Tourism Tab -->
+            <div class="tab-content" id="tourism">
+                <div class="content-grid" id="touristAttractions">
+                    <!-- Dynamic content -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 data-en="Belagavi Division" data-kn="ಬೆಳಗಾವಿ ವಿಭಾಗ">Belagavi Division</h3>
+                    <p data-en="Preserving Karnataka's regional pride and providing accessible information." data-kn="ಕರ್ನಾಟಕದ ಪ್ರಾದೇಶಿಕ ಹೆಮ್ಮೆಯನ್ನು ಸಂರಕ್ಷಿಸುವುದು ಮತ್ತು ಪ್ರವೇಶಿಸಬಹುದಾದ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸುವುದು.">
+                        Preserving Karnataka's regional pride and providing accessible information.
+                    </p>
+                </div>
+                <div class="footer-section">
+                    <h3 data-en="Quick Links" data-kn="ತ್ವರಿತ ಲಿಂಕ್ಗಳು">Quick Links</h3>
+                    <ul>
+                        <li><a href="index.html" data-en="Home" data-kn="ಮುಖಪುಟ">Home</a></li>
+                        <li><a href="about.html" data-en="About" data-kn="ನಮ್ಮ ಬಗ್ಗೆ">About</a></li>
+                        <li><a href="gallery.html" data-en="Gallery" data-kn="ಗ್ಯಾಲರಿ">Gallery</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Belagavi Division. <span data-en="All rights reserved." data-kn="ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.">All rights reserved.</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom JavaScript -->
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/district.js"></script>
+</body>
+</html>
+
