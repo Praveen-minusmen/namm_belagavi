@@ -196,25 +196,37 @@ body {
 .welcome-kannada {
     font-size: 2rem;
     font-weight: 700;
-    color: var(--gold);
+    color: var(--white);
     text-shadow: 
-        3px 3px 0px var(--terracotta),
+        3px 3px 0px rgba(0, 0, 0, 0.3),
         6px 6px 10px rgba(0, 0, 0, 0.5),
-        0 0 20px rgba(255, 215, 0, 0.3);
+        0 0 20px rgba(255, 255, 255, 0.2);
     transform: perspective(500px) rotateX(5deg);
     letter-spacing: 2px;
     font-family: 'Noto Sans Kannada', sans-serif;
     animation: welcomeFloat 3s ease-in-out infinite;
     display: inline-block;
     padding: var(--spacing-md);
-    background: linear-gradient(135deg, rgba(255, 215, 0, 0.1), rgba(200, 90, 58, 0.1));
+    /* Karnataka Flag Colors: Yellow (top) and Red (bottom) */
+    background: linear-gradient(to bottom, 
+        #FFD700 0%, 
+        #FFD700 50%, 
+        #DC143C 50%, 
+        #DC143C 100%);
     border-radius: 15px;
-    border: 2px solid rgba(255, 215, 0, 0.3);
+    border: 3px solid rgba(255, 255, 255, 0.5);
     box-shadow: 
-        0 10px 30px rgba(0, 0, 0, 0.3),
-        inset 0 1px 0 rgba(255, 255, 255, 0.2);
+        0 10px 30px rgba(0, 0, 0, 0.4),
+        inset 0 1px 0 rgba(255, 255, 255, 0.3),
+        inset 0 -1px 0 rgba(255, 255, 255, 0.3);
     position: relative;
     overflow: hidden;
+    line-height: 1.6;
+}
+
+.welcome-kannada br {
+    display: block;
+    margin: 0.5rem 0;
 }
 
 .welcome-kannada::before {
