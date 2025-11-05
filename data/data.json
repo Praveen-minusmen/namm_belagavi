@@ -318,30 +318,6 @@
             "photo": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
           }
         ],
-        "naturalSanctuaries": [
-          {
-            "name": {
-              "en": "Bhimgad Sanctuary",
-              "kn": "ಭೀಮಗದ ಅಭಯಾರಣ್ಯ"
-            },
-            "description": {
-              "en": "A wildlife sanctuary known for its diverse flora and fauna, including tigers and various bird species.",
-              "kn": "ಬೆಕ್ಕುಗಳು ಮತ್ತು ವಿವಿಧ ಪಕ್ಷಿ ಜಾತಿಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ವೈವಿಧ್ಯಮಯ ಸಸ್ಯ ಮತ್ತು ಪ್ರಾಣಿ ಸಂಪತ್ತಿಗೆ ಹೆಸರುವಾಸಿಯಾದ ವನ್ಯಜೀವಿ ಅಭಯಾರಣ್ಯ."
-            },
-            "photo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bhimgad_Sanctuary.jpg"
-          },
-          {
-            "name": {
-              "en": "Gattaprabha Bird Sanctuary",
-              "kn": "ಗಟ್ಟಪ್ರಭಾ ಪಕ್ಷಿ ಅಭಯಾರಣ್ಯ"
-            },
-            "description": {
-              "en": "Bird sanctuary in Gokak region, home to various bird species.",
-              "kn": "ಗೋಕಾಕ್ ಪ್ರದೇಶದಲ್ಲಿನ ಪಕ್ಷಿ ಅಭಯಾರಣ್ಯ, ವಿವಿಧ ಪಕ್ಷಿ ಜಾತಿಗಳ ಆವಾಸಸ್ಥಾನ."
-            },
-            "photo": "https://images.unsplash.com/photo-1444927714506-8492d94b5ba0?w=400&h=300&fit=crop"
-          }
-        ],
         "notablePeople": [
           {
             "name": {
