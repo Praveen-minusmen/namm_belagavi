@@ -288,17 +288,43 @@ function createContentCard(item, lang) {
     card.className = 'content-card';
     
     const imageUrl = item.photo || getIconForAttraction(item.name[lang] || item.name.en);
+    const itemName = item.name[lang] || item.name.en;
     
-    card.innerHTML = `
-        <div class="content-card-image-wrapper">
-            <img src="${imageUrl}" alt="${item.name[lang]}" class="content-card-image" 
-                 onerror="this.onerror=null; this.parentElement.innerHTML='${getIconHTML(item.name[lang] || item.name.en)}'">
-        </div>
-        <div class="content-card-body">
-            <h3>${item.name[lang]}</h3>
-            <p>${item.description[lang]}</p>
-        </div>
+    // Create image wrapper
+    const imageWrapper = document.createElement('div');
+    imageWrapper.className = 'content-card-image-wrapper';
+    
+    const img = document.createElement('img');
+    img.src = imageUrl;
+    img.alt = itemName;
+    img.className = 'content-card-image';
+    
+    // Handle image load error - show icon instead
+    img.onerror = function() {
+        this.style.display = 'none';
+        const iconDiv = document.createElement('div');
+        iconDiv.className = 'icon-fallback';
+        const iconImg = document.createElement('img');
+        iconImg.src = getIconForAttraction(itemName);
+        iconImg.alt = itemName;
+        iconImg.className = 'icon-image';
+        iconDiv.appendChild(iconImg);
+        imageWrapper.appendChild(iconDiv);
+    };
+    
+    imageWrapper.appendChild(img);
+    
+    // Create card body
+    const cardBody = document.createElement('div');
+    cardBody.className = 'content-card-body';
+    cardBody.innerHTML = `
+        <h3>${itemName}</h3>
+        <p>${item.description[lang]}</p>
     `;
+    
+    // Assemble card
+    card.appendChild(imageWrapper);
+    card.appendChild(cardBody);
     
     return card;
 }
@@ -354,12 +380,6 @@ function getIconForAttraction(name) {
     return 'https://cdn-icons-png.flaticon.com/512/3135/3135715.png';
 }
 
-function getIconHTML(name) {
-    const iconUrl = getIconForAttraction(name);
-    return `<div class="icon-fallback">
-        <img src="${iconUrl}" alt="${name}" class="icon-image">
-    </div>`;
-}
 
 // Update content when language changes
 document.addEventListener('languageChanged', function() {
